@@ -1,0 +1,31 @@
+# 运行参数与告警阈值
+lookback_hours: 24          # 公告 / 反馈的回看窗口
+vs_currency: usd
+
+alerts:
+  price_change_24h_pct: 15      # |24h 涨跌幅| 超过该值告警
+  price_change_7d_pct: 35       # |7d 涨跌幅| 超过该值告警
+  excess_vs_btc_24h_pct: 10     # 相对 BTC 的 24h 超额涨跌超过该值告警
+  volume_to_mcap_ratio: 0.5     # 24h 成交量 / 市值 超过该值视为异常放量
+  negative_feedback_ratio: 0.4  # 负面反馈占比超过该值告警（样本 >= min_feedback_samples）
+  min_feedback_samples: 5
+  new_release: true             # 有新的 GitHub Release 时提示
+
+collectors:
+  github:
+    issues_per_repo: 20
+    releases_per_repo: 5
+  reddit:
+    limit: 25
+  x:
+    max_results: 25
+
+# 通知渠道：值为环境变量名，未设置环境变量则不发送
+notify:
+  telegram:
+    bot_token_env: TELEGRAM_BOT_TOKEN
+    chat_id_env: TELEGRAM_CHAT_ID
+  discord:
+    webhook_env: DISCORD_WEBHOOK_URL
+  feishu:
+    webhook_env: FEISHU_WEBHOOK_URL
