@@ -1,0 +1,53 @@
+name: BTC Ecosystem Monitor
+
+on:
+  schedule:
+    - cron: "17 0 * * *"   # 每天 08:17 (UTC+8)
+  workflow_dispatch:
+    inputs:
+      hours:
+        description: "回看小时数"
+        default: "24"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: btc-ecosystem-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: btc-ecosystem-monitor
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run monitor
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COINGECKO_API_KEY: ${{ secrets.COINGECKO_API_KEY }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          HOURS: ${{ github.event.inputs.hours || '24' }}
+          REPORT_URL: ${{ github.server_url }}/${{ github.repository }}/blob/${{ github.ref_name }}/btc-ecosystem-monitor/reports/latest.md
+        run: python -m monitor --hours "$HOURS" --report-url "$REPORT_URL"
+
+      - name: Commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          git diff --cached --quiet || git commit -m "chore(monitor): BTC 生态监控报告 $(date -u +%F)"
+          git push

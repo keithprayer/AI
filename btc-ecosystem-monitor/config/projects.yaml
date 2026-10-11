@@ -1,0 +1,184 @@
+# BTC 生态项目监控清单
+# ---------------------------------------------------------------
+# 每个项目可配置的数据源（全部可选，缺省即跳过该维度）：
+#   token.coingecko_id : CoinGecko 币种 ID，用于价格/市值/成交量
+#   github             : GitHub 仓库列表，抓取 Release（公告）与 Issue（用户反馈）
+#   rss                : 官方博客 / Medium / Substack 的 RSS 或 Atom 地址（公告）
+#   reddit_query       : Reddit 搜索关键词（用户反馈）
+#   x_query            : X(Twitter) 搜索语句，需要 X_BEARER_TOKEN（公告 + 反馈）
+#   x_handle           : 官方账号，仅用于报告中展示链接
+#   keywords           : 用于过滤 / 高亮的项目关键词
+#
+# 注意：标注「待核实」的 coingecko_id / 仓库 / 链接请在使用前到对应网站确认，
+#       代币与项目变化很快，模板中的条目仅作为起点示例。
+# ---------------------------------------------------------------
+
+ecosystems:
+  rgb:
+    name: RGB
+    description: 基于客户端验证（client-side validation）的 BTC / Lightning 智能合约与资产协议
+  taproot_assets:
+    name: Taproot Assets
+    description: Lightning Labs 推出的基于 Taproot 的资产发行协议，可通过闪电网络转移
+  lightning:
+    name: Lightning Network
+    description: 比特币二层支付通道网络及其基础设施
+  runes:
+    name: Runes
+    description: 基于 OP_RETURN 的同质化代币协议
+  brc20:
+    name: BRC-20 / Ordinals
+    description: 基于铭文（Inscriptions）的代币与 NFT 生态
+  btc_l2:
+    name: BTC L2 / BTCFi
+    description: 比特币侧链、Rollup、质押等 BTCFi 项目
+
+# 基准资产：用于计算各代币相对 BTC 的超额表现
+benchmark:
+  symbol: BTC
+  coingecko_id: bitcoin
+
+projects:
+  # ------------------------- RGB -------------------------
+  - id: rgb-protocol
+    name: RGB Protocol (LNP/BP)
+    ecosystem: rgb
+    github: [RGB-WG/rgb, RGB-WG/rgb-std]
+    reddit_query: '"RGB protocol" bitcoin'
+    x_query: '"RGB protocol" OR #RGB bitcoin -is:retweet'
+    keywords: [RGB, LNP/BP, client-side validation]
+
+  - id: rgb-tools
+    name: RGB Tools / Iris Wallet
+    ecosystem: rgb
+    github: [RGB-Tools/rgb-lib, RGB-Tools/rgb-lightning-node]
+    keywords: [rgb-lib, Iris wallet]
+
+  - id: bitlight
+    name: Bitlight Labs
+    ecosystem: rgb
+    token:
+      symbol: LIGHT
+      coingecko_id: bitlight            # 待核实
+    x_handle: bitlightlabs              # 待核实
+    x_query: 'Bitlight -is:retweet'
+    reddit_query: 'Bitlight RGB'
+    keywords: [Bitlight, LIGHT]
+
+  - id: usdt-rgb
+    name: USDT on RGB
+    ecosystem: rgb
+    reddit_query: 'USDT RGB bitcoin'
+    x_query: '"USDT" "RGB" bitcoin -is:retweet'
+    keywords: [Tether, USDT, RGB]
+
+  # ------------------- Taproot Assets --------------------
+  - id: taproot-assets
+    name: Taproot Assets (Lightning Labs)
+    ecosystem: taproot_assets
+    github: [lightninglabs/taproot-assets]
+    rss: [https://lightning.engineering/posts/index.xml]   # 待核实
+    reddit_query: '"Taproot Assets"'
+    x_query: '"Taproot Assets" -is:retweet'
+    x_handle: lightning
+    keywords: [Taproot Assets, tapd, Lightning Labs]
+
+  - id: usdt-lightning
+    name: USDT on Lightning (Taproot Assets)
+    ecosystem: taproot_assets
+    reddit_query: 'USDT lightning "taproot assets"'
+    x_query: 'USDT "Taproot Assets" -is:retweet'
+    keywords: [Tether, USDT, Lightning]
+
+  # ---------------------- Lightning ----------------------
+  - id: lnd
+    name: LND
+    ecosystem: lightning
+    github: [lightningnetwork/lnd]
+    reddit_query: 'lnd lightning node'
+    keywords: [LND]
+
+  - id: core-lightning
+    name: Core Lightning
+    ecosystem: lightning
+    github: [ElementsProject/lightning]
+    keywords: [CLN, Core Lightning]
+
+  - id: ldk
+    name: LDK / Lightning Dev Kit
+    ecosystem: lightning
+    github: [lightningdevkit/rust-lightning]
+    keywords: [LDK]
+
+  - id: breez
+    name: Breez SDK
+    ecosystem: lightning
+    github: [breez/breez-sdk-liquid]
+    keywords: [Breez]
+
+  # ------------------------ Runes ------------------------
+  - id: dog
+    name: DOG•GO•TO•THE•MOON
+    ecosystem: runes
+    token:
+      symbol: DOG
+      coingecko_id: dog-go-to-the-moon-rune
+    reddit_query: 'DOG rune bitcoin'
+    keywords: [DOG, Runes]
+
+  # ----------------------- BRC-20 ------------------------
+  - id: ordi
+    name: ORDI
+    ecosystem: brc20
+    token:
+      symbol: ORDI
+      coingecko_id: ordinals
+    github: [ordinals/ord]
+    reddit_query: 'ORDI brc20'
+    keywords: [ORDI, BRC-20, Ordinals]
+
+  - id: sats
+    name: SATS (1000SATS)
+    ecosystem: brc20
+    token:
+      symbol: SATS
+      coingecko_id: sats-ordinals
+    keywords: [SATS, BRC-20]
+
+  # ------------------- BTC L2 / BTCFi --------------------
+  - id: stacks
+    name: Stacks
+    ecosystem: btc_l2
+    token:
+      symbol: STX
+      coingecko_id: blockstack
+    github: [stacks-network/stacks-core]
+    rss: [https://www.stacks.co/blog/rss.xml]               # 待核实
+    reddit_query: 'Stacks STX sBTC'
+    keywords: [Stacks, STX, sBTC]
+
+  - id: babylon
+    name: Babylon
+    ecosystem: btc_l2
+    token:
+      symbol: BABY
+      coingecko_id: babylon             # 待核实
+    github: [babylonlabs-io/babylon]
+    reddit_query: 'Babylon bitcoin staking'
+    keywords: [Babylon, BABY, BTC staking]
+
+  - id: core-dao
+    name: Core DAO
+    ecosystem: btc_l2
+    token:
+      symbol: CORE
+      coingecko_id: coredaoorg
+    keywords: [Core DAO, CORE]
+
+  - id: merlin
+    name: Merlin Chain
+    ecosystem: btc_l2
+    token:
+      symbol: MERL
+      coingecko_id: merlin-chain        # 待核实
+    keywords: [Merlin, MERL]
