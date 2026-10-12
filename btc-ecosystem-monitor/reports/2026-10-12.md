@@ -1,6 +1,6 @@
 # BTC 生态项目监控报告 · 2026-10-12
 
-> 生成时间：2026-10-12 13:00 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 0 条 ｜ 反馈 3 条 ｜ 告警 0 条
+> 生成时间：2026-10-12 13:59 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 0 条 ｜ 反馈 3 条 ｜ 告警 0 条
 
 ## 1. 今日核心结论（人工填写）
 
@@ -15,39 +15,39 @@
 
 ## 3. 代币价格表现
 
-**基准 BTC：** $84,066.00 ｜ 1h 🟢 +0.64% ｜ 24h 🟢 +1.33% ｜ 7d 🔴 -2.35%
+**基准 BTC：** $83,955.00 ｜ 1h 🟢 +0.64% ｜ 24h 🟢 +1.18% ｜ 7d 🔴 -2.35%
 
-**24h 涨幅榜：** LIGHT +4.0%、CORE +2.7%、BABY +1.8%
+**24h 涨幅榜：** LIGHT +2.7%、CORE +2.3%、SATS +1.8%
 
-**24h 跌幅榜：** STX -2.5%、DOG -1.0%、MERL +0.4%
+**24h 跌幅榜：** STX -2.4%、MERL -0.8%、DOG -0.7%
 
-### RGB（市值加权 24h：+3.99%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Bitlight Labs | LIGHT | $0.213599 | 🟢 +1.62% | 🟢 +3.99% | 🟢 +9.60% | 🟢 +2.66% | $9.20M | $1.34M | 0.15 |
-
-### Runes（市值加权 24h：-0.98%）
+### RGB（市值加权 24h：+2.69%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| DOG•GO•TO•THE•MOON | DOG | $0.00098818 | 🟢 +0.27% | 🔴 -0.98% | 🟢 +2.71% | 🔴 -2.31% | $98.86M | $553.12K | 0.01 |
+| Bitlight Labs | LIGHT | $0.210451 | 🟢 +1.62% | 🟢 +2.69% | 🟢 +9.60% | 🟢 +1.50% | $9.06M | $1.31M | 0.14 |
 
-### BRC-20 / Ordinals（市值加权 24h：+1.23%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ORDI | ORDI | $4.42 | 🟢 +0.93% | 🟢 +1.13% | 🔴 -3.35% | 🔴 -0.20% | $92.76M | $10.51M | 0.11 |
-| SATS (1000SATS) | SATS | $1.2106e-08 | 🟢 +0.93% | 🟢 +1.57% | 🔴 -3.15% | 🟢 +0.24% | $25.42M | $684.94K | 0.03 |
-
-### BTC L2 / BTCFi（市值加权 24h：-1.80%）
+### Runes（市值加权 24h：-0.67%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Stacks | STX | $0.389797 | 🟢 +0.82% | 🔴 -2.50% | 🔴 -0.62% | 🔴 -3.83% | $730.32M | $22.88M | 0.03 |
-| Babylon | BABY | $0.0132078 | 🟢 +0.52% | 🟢 +1.76% | 🔴 -4.38% | 🟢 +0.43% | $64.65M | $3.97M | 0.06 |
-| Core DAO | CORE | $0.0205217 | 🟢 +1.21% | 🟢 +2.68% | 🔴 -6.52% | 🟢 +1.35% | $30.79M | $1.93M | 0.06 |
-| Merlin Chain | MERL | $0.0312007 | 🟢 +1.48% | 🟢 +0.41% | 🟢 +0.34% | 🔴 -0.92% | $65.53M | $4.23M | 0.06 |
+| DOG•GO•TO•THE•MOON | DOG | $0.00099423 | 🟢 +0.27% | 🔴 -0.67% | 🟢 +2.71% | 🔴 -1.85% | $99.49M | $552.90K | 0.01 |
+
+### BRC-20 / Ordinals（市值加权 24h：+1.03%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ORDI | ORDI | $4.40 | 🟢 +0.93% | 🟢 +0.81% | 🔴 -3.35% | 🔴 -0.37% | $92.32M | $10.58M | 0.11 |
+| SATS (1000SATS) | SATS | $1.2144e-08 | 🟢 +0.93% | 🟢 +1.84% | 🔴 -3.15% | 🟢 +0.66% | $25.50M | $695.58K | 0.03 |
+
+### BTC L2 / BTCFi（市值加权 24h：-1.93%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Stacks | STX | $0.38869 | 🟢 +0.82% | 🔴 -2.45% | 🔴 -0.62% | 🔴 -3.63% | $728.75M | $23.60M | 0.03 |
+| Babylon | BABY | $0.0130912 | 🟢 +0.52% | 🟢 +0.73% | 🔴 -4.38% | 🔴 -0.45% | $64.10M | $4.01M | 0.06 |
+| Core DAO | CORE | $0.0204151 | 🟢 +1.21% | 🟢 +2.29% | 🔴 -6.52% | 🟢 +1.11% | $30.64M | $1.90M | 0.06 |
+| Merlin Chain | MERL | $0.0308925 | 🟢 +1.48% | 🔴 -0.76% | 🟢 +0.34% | 🔴 -1.94% | $64.93M | $4.30M | 0.07 |
 
 <sub>无可交易代币 / 未配置行情的项目：RGB Protocol (LNP/BP)、RGB Tools / Iris Wallet、USDT on RGB、Taproot Assets (Lightning Labs)、USDT on Lightning (Taproot Assets)、LND、Core Lightning、LDK / Lightning Dev Kit、Breez SDK</sub>
 
@@ -94,7 +94,7 @@
 - usdt-lightning/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=USDT+lightning+%22taproot+assets%22&sort=new&t=week&limit=25
 - lnd/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=lnd+lightning+node&sort=new&t=week&limit=25
 - breez/github-release: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/releases?per_page=5
-- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-10-11T05%3A00%3A23.653165%2B00%3A00&per_page=20
+- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-10-11T05%3A59%3A22.435605%2B00%3A00&per_page=20
 - dog/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=DOG+rune+bitcoin&sort=new&t=week&limit=25
 - ordi/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=ORDI+brc20&sort=new&t=week&limit=25
 - stacks/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stacks+STX+sBTC&sort=new&t=week&limit=25
