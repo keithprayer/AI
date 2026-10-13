@@ -1,6 +1,6 @@
-# BTC 生态项目监控报告 · 2026-10-12
+# BTC 生态项目监控报告 · 2026-10-13
 
-> 生成时间：2026-10-12 13:59 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 0 条 ｜ 反馈 3 条 ｜ 告警 0 条
+> 生成时间：2026-10-13 14:47 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 1 条 ｜ 反馈 4 条 ｜ 告警 1 条
 
 ## 1. 今日核心结论（人工填写）
 
@@ -11,67 +11,70 @@
 
 ## 2. 告警
 
-暂无触发阈值的告警。
+ℹ️ Stacks (STX) 24h 跑赢 BTC 10.8 个百分点
 
 ## 3. 代币价格表现
 
-**基准 BTC：** $83,955.00 ｜ 1h 🟢 +0.64% ｜ 24h 🟢 +1.18% ｜ 7d 🔴 -2.35%
+**基准 BTC：** $83,661.00 ｜ 1h 🟢 +0.27% ｜ 24h 🔴 -0.34% ｜ 7d 🔴 -2.31%
 
-**24h 涨幅榜：** LIGHT +2.7%、CORE +2.3%、SATS +1.8%
+**24h 涨幅榜：** STX +10.5%、MERL +4.5%、DOG -3.2%
 
-**24h 跌幅榜：** STX -2.4%、MERL -0.8%、DOG -0.7%
+**24h 跌幅榜：** BABY -6.2%、CORE -5.9%、LIGHT -5.5%
 
-### RGB（市值加权 24h：+2.69%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Bitlight Labs | LIGHT | $0.210451 | 🟢 +1.62% | 🟢 +2.69% | 🟢 +9.60% | 🟢 +1.50% | $9.06M | $1.31M | 0.14 |
-
-### Runes（市值加权 24h：-0.67%）
+### RGB（市值加权 24h：-5.48%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| DOG•GO•TO•THE•MOON | DOG | $0.00099423 | 🟢 +0.27% | 🔴 -0.67% | 🟢 +2.71% | 🔴 -1.85% | $99.49M | $552.90K | 0.01 |
+| Bitlight Labs | LIGHT | $0.199464 | 🟢 +0.13% | 🔴 -5.48% | 🔴 -1.24% | 🔴 -5.14% | $8.59M | $1.46M | 0.17 |
 
-### BRC-20 / Ordinals（市值加权 24h：+1.03%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ORDI | ORDI | $4.40 | 🟢 +0.93% | 🟢 +0.81% | 🔴 -3.35% | 🔴 -0.37% | $92.32M | $10.58M | 0.11 |
-| SATS (1000SATS) | SATS | $1.2144e-08 | 🟢 +0.93% | 🟢 +1.84% | 🔴 -3.15% | 🟢 +0.66% | $25.50M | $695.58K | 0.03 |
-
-### BTC L2 / BTCFi（市值加权 24h：-1.93%）
+### Runes（市值加权 24h：-3.17%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Stacks | STX | $0.38869 | 🟢 +0.82% | 🔴 -2.45% | 🔴 -0.62% | 🔴 -3.63% | $728.75M | $23.60M | 0.03 |
-| Babylon | BABY | $0.0130912 | 🟢 +0.52% | 🟢 +0.73% | 🔴 -4.38% | 🔴 -0.45% | $64.10M | $4.01M | 0.06 |
-| Core DAO | CORE | $0.0204151 | 🟢 +1.21% | 🟢 +2.29% | 🔴 -6.52% | 🟢 +1.11% | $30.64M | $1.90M | 0.06 |
-| Merlin Chain | MERL | $0.0308925 | 🟢 +1.48% | 🔴 -0.76% | 🟢 +0.34% | 🔴 -1.94% | $64.93M | $4.30M | 0.07 |
+| DOG•GO•TO•THE•MOON | DOG | $0.00096199 | 🟢 +0.26% | 🔴 -3.17% | 🟢 +0.87% | 🔴 -2.83% | $96.17M | $551.11K | 0.01 |
+
+### BRC-20 / Ordinals（市值加权 24h：-4.12%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ORDI | ORDI | $4.18 | 🟢 +1.09% | 🔴 -4.28% | 🔴 -8.11% | 🔴 -3.94% | $87.86M | $17.79M | 0.20 |
+| SATS (1000SATS) | SATS | $1.1635e-08 | 🟢 +0.54% | 🔴 -3.58% | 🔴 -6.51% | 🔴 -3.24% | $24.43M | $932.25K | 0.04 |
+
+### BTC L2 / BTCFi（市值加权 24h：+8.53%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Stacks | STX | $0.427613 | 🔴 -0.41% | 🟢 +10.48% | 🟢 +14.20% | 🟢 +10.82% | $801.35M | $101.02M | 0.13 |
+| Babylon | BABY | $0.0122365 | 🔴 -0.13% | 🔴 -6.24% | 🔴 -8.93% | 🔴 -5.90% | $59.91M | $5.38M | 0.09 |
+| Core DAO | CORE | $0.0191634 | 🟢 +0.92% | 🔴 -5.88% | 🔴 -10.97% | 🔴 -5.54% | $28.36M | $3.52M | 0.12 |
+| Merlin Chain | MERL | $0.0323671 | 🟢 +1.20% | 🟢 +4.50% | 🟢 +7.56% | 🟢 +4.83% | $67.97M | $9.70M | 0.14 |
 
 <sub>无可交易代币 / 未配置行情的项目：RGB Protocol (LNP/BP)、RGB Tools / Iris Wallet、USDT on RGB、Taproot Assets (Lightning Labs)、USDT on Lightning (Taproot Assets)、LND、Core Lightning、LDK / Lightning Dev Kit、Breez SDK</sub>
 
 ## 4. 最新项目公告
 
-回看窗口内暂无新公告。
+### BTC L2 / BTCFi
+
+- `10-12 21:27` **Stacks** · 官方博客：[Bitcoin Staking Bond 2 Filled by Bitcoin DeFi](https://www.stacks.co/blog/bitcoin-staking-bond-2-filled-by-bitcoin-defi)
 
 ## 5. 用户反馈与舆情
 
 | 项目 | 生态 | 样本 | 正面 | 中性 | 负面 | 平均情绪 |
 |---|---|---:|---:|---:|---:|---|
-| LND | Lightning Network | 1 | 0 | 0 | 1 | -1.00（负面） |
-| Core Lightning | Lightning Network | 1 | 0 | 1 | 0 | +0.00（中性） |
-| Stacks | BTC L2 / BTCFi | 1 | 1 | 0 | 0 | +1.00（正面） |
+| Taproot Assets (Lightning Labs) | Taproot Assets | 2 | 0 | 1 | 1 | -0.50（负面） |
+| Core Lightning | Lightning Network | 1 | 1 | 0 | 0 | +1.00（正面） |
+| Stacks | BTC L2 / BTCFi | 1 | 0 | 1 | 0 | +0.00（中性） |
 
 ### 热门讨论（按互动量）
 
-- `10-12 06:14` **LND** · GitHub Issue · 互动 2 · 负面：[[lightningnetwork/lnd#11316] [bug]: Briefly Unavailable Feerate Source defaults to 25 sats/vB leading to FCs  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11316)
-- `10-12 02:00` **Core Lightning** · GitHub Issue · 互动 1 · 中性：[[ElementsProject/lightning#9619] LSPS: ship only the client, remove the LSPS2 service from CLN](https://github.com/ElementsProject/lightning/issues/9619)
-- `10-11 14:41` **Stacks** · GitHub Issue · 互动 1 · 正面：[[stacks-network/stacks-core#7721] [Flaky Test] tests::nakamoto_integrations::follower_bootup_across_multiple_cycles  (flaky)](https://github.com/stacks-network/stacks-core/issues/7721)
+- `10-12 20:14` **Taproot Assets (Lightning Labs)** · GitHub Issue · 互动 2 · 中性：[[lightninglabs/taproot-assets#2347] [bug]: memory spike on litd + tapd start up  (bug)](https://github.com/lightninglabs/taproot-assets/issues/2347)
+- `10-13 14:45` **Stacks** · GitHub Issue · 互动 1 · 中性：[[stacks-network/stacks-core#7733] [Flaky Test] tests::signer::v0::tenure_extend::empty_sortition_before_tenure_start_signed  (flaky)](https://github.com/stacks-network/stacks-core/issues/7733)
+- `10-12 16:03` **Taproot Assets (Lightning Labs)** · GitHub Issue · 互动 0 · 负面：[[lightninglabs/taproot-assets#2344] [bug]: Supply commitment spends the transfer outpoint after a transfer proof retargets the genesis anchor](https://github.com/lightninglabs/taproot-assets/issues/2344)
+- `10-13 05:08` **Core Lightning** · GitHub Issue · 互动 0 · 正面：[[ElementsProject/lightning#9622] Extra wastefull hop in xpay route?](https://github.com/ElementsProject/lightning/issues/9622)
 
 ### 负面反馈 / 风险线索
 
-- `10-12 06:14` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11316] [bug]: Briefly Unavailable Feerate Source defaults to 25 sats/vB leading to FCs  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11316)
+- `10-12 16:03` **Taproot Assets (Lightning Labs)** · GitHub Issue · 情绪 -1.00：[[lightninglabs/taproot-assets#2344] [bug]: Supply commitment spends the transfer outpoint after a transfer proof retargets the genesis anchor](https://github.com/lightninglabs/taproot-assets/issues/2344)
 
 ## 6. 人工研判与跟进（人工填写）
 
@@ -94,7 +97,7 @@
 - usdt-lightning/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=USDT+lightning+%22taproot+assets%22&sort=new&t=week&limit=25
 - lnd/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=lnd+lightning+node&sort=new&t=week&limit=25
 - breez/github-release: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/releases?per_page=5
-- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-10-11T05%3A59%3A22.435605%2B00%3A00&per_page=20
+- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-10-12T06%3A47%3A51.698090%2B00%3A00&per_page=20
 - dog/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=DOG+rune+bitcoin&sort=new&t=week&limit=25
 - ordi/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=ORDI+brc20&sort=new&t=week&limit=25
 - stacks/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stacks+STX+sBTC&sort=new&t=week&limit=25
