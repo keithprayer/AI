@@ -1,6 +1,6 @@
-# BTC 生态项目监控报告 · 2026-10-27
+# BTC 生态项目监控报告 · 2026-10-28
 
-> 生成时间：2026-10-27 13:06 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 0 条 ｜ 反馈 6 条 ｜ 告警 2 条
+> 生成时间：2026-10-28 13:43 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 2 条 ｜ 反馈 7 条 ｜ 告警 3 条
 
 ## 1. 今日核心结论（人工填写）
 
@@ -11,74 +11,79 @@
 
 ## 2. 告警
 
-⚠️ Bitlight Labs (LIGHT) 异常放量：成交量/市值 = 1.10
+⚠️ Bitlight Labs (LIGHT) 异常放量：成交量/市值 = 0.57
 
-ℹ️ Bitlight Labs (LIGHT) 24h 跑赢 BTC 11.6 个百分点
+ℹ️ LND 新版本：[lightningnetwork/lnd] lnd v0.21.5-beta
+
+ℹ️ LND 新版本：[lightningnetwork/lnd] lnd v0.20.6-beta
 
 ## 3. 代币价格表现
 
-**基准 BTC：** $79,754.00 ｜ 1h 🔴 -0.09% ｜ 24h 🔴 -0.41% ｜ 7d 🔴 -2.99%
+**基准 BTC：** $80,848.00 ｜ 1h 🔴 -0.16% ｜ 24h 🟢 +1.40% ｜ 7d 🔴 -2.16%
 
-**24h 涨幅榜：** LIGHT +11.2%、MERL +3.4%、ORDI +0.3%
+**24h 涨幅榜：** LIGHT +4.4%、CORE +4.0%、ORDI +3.8%
 
-**24h 跌幅榜：** CORE -2.0%、STX -1.3%、DOG -0.7%
+**24h 跌幅榜：** MERL -0.1%、STX +0.6%、BABY +0.8%
 
-### RGB（市值加权 24h：+11.16%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Bitlight Labs | LIGHT | $0.272902 | 🟢 +1.18% | 🟢 +11.16% | 🟢 +29.77% | 🟢 +11.56% | $11.74M | $12.90M | 1.10 |
-
-### Runes（市值加权 24h：-0.74%）
+### RGB（市值加权 24h：+4.41%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| DOG•GO•TO•THE•MOON | DOG | $0.00089867 | 🟢 +0.04% | 🔴 -0.74% | 🔴 -0.34% | 🔴 -0.33% | $89.89M | $466.04K | 0.01 |
+| Bitlight Labs | LIGHT | $0.285537 | 🔴 -1.21% | 🟢 +4.41% | 🟢 +33.34% | 🟢 +3.01% | $12.29M | $7.05M | 0.57 |
 
-### BRC-20 / Ordinals（市值加权 24h：+0.14%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ORDI | ORDI | $3.57 | 🔴 -0.06% | 🟢 +0.31% | 🔴 -6.25% | 🟢 +0.72% | $74.98M | $8.67M | 0.12 |
-| SATS (1000SATS) | SATS | $9.939e-09 | 🔴 -0.12% | 🔴 -0.48% | 🔴 -4.72% | 🔴 -0.07% | $20.87M | $711.07K | 0.03 |
-
-### BTC L2 / BTCFi（市值加权 24h：-0.92%）
+### Runes（市值加权 24h：+2.32%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Stacks | STX | $0.301461 | 🔴 -0.67% | 🔴 -1.29% | 🔴 -16.76% | 🔴 -0.88% | $565.54M | $12.36M | 0.02 |
-| Babylon | BABY | $0.0142075 | 🔴 -2.54% | 🔴 -0.06% | 🟢 +16.40% | 🟢 +0.35% | $70.07M | $20.64M | 0.29 |
-| Core DAO | CORE | $0.0170234 | 🔴 -0.52% | 🔴 -1.96% | 🔴 -2.22% | 🔴 -1.55% | $25.55M | $2.74M | 0.11 |
-| Merlin Chain | MERL | $0.0275452 | 🟢 +0.06% | 🟢 +3.42% | 🟢 +8.42% | 🟢 +3.83% | $39.38M | $1.97M | 0.05 |
+| DOG•GO•TO•THE•MOON | DOG | $0.00092018 | 🔴 -0.03% | 🟢 +2.32% | 🟢 +1.30% | 🟢 +0.92% | $92.02M | $346.39K | 0.00 |
+
+### BRC-20 / Ordinals（市值加权 24h：+3.63%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ORDI | ORDI | $3.69 | 🟢 +0.16% | 🟢 +3.83% | 🔴 -5.09% | 🟢 +2.43% | $77.51M | $8.64M | 0.11 |
+| SATS (1000SATS) | SATS | $1.0201e-08 | 🔴 -0.21% | 🟢 +2.89% | 🔴 -4.33% | 🟢 +1.49% | $21.42M | $703.00K | 0.03 |
+
+### BTC L2 / BTCFi（市值加权 24h：+0.71%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Stacks | STX | $0.301798 | 🔴 -0.22% | 🟢 +0.61% | 🔴 -15.77% | 🔴 -0.80% | $566.85M | $11.83M | 0.02 |
+| Babylon | BABY | $0.0142864 | 🟢 +0.23% | 🟢 +0.80% | 🟢 +11.45% | 🔴 -0.61% | $70.28M | $13.68M | 0.19 |
+| Core DAO | CORE | $0.0175951 | 🟢 +0.13% | 🟢 +4.01% | 🟢 +4.88% | 🟢 +2.61% | $26.42M | $3.55M | 0.13 |
+| Merlin Chain | MERL | $0.0273713 | 🔴 -0.13% | 🔴 -0.15% | 🟢 +3.64% | 🔴 -1.55% | $39.14M | $1.65M | 0.04 |
 
 <sub>无可交易代币 / 未配置行情的项目：RGB Protocol (LNP/BP)、RGB Tools / Iris Wallet、USDT on RGB、Taproot Assets (Lightning Labs)、USDT on Lightning (Taproot Assets)、LND、Core Lightning、LDK / Lightning Dev Kit、Breez SDK</sub>
 
 ## 4. 最新项目公告
 
-回看窗口内暂无新公告。
+### Lightning Network
+
+- `10-28 02:20` **LND** · GitHub Release：[[lightningnetwork/lnd] lnd v0.20.6-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.20.6-beta)
+- `10-28 02:20` **LND** · GitHub Release：[[lightningnetwork/lnd] lnd v0.21.5-beta](https://github.com/lightningnetwork/lnd/releases/tag/v0.21.5-beta)
 
 ## 5. 用户反馈与舆情
 
 | 项目 | 生态 | 样本 | 正面 | 中性 | 负面 | 平均情绪 |
 |---|---|---:|---:|---:|---:|---|
-| LND | Lightning Network | 4 | 1 | 0 | 3 | -0.50（负面） |
-| Core Lightning | Lightning Network | 2 | 0 | 1 | 1 | -0.50（负面） |
+| Core Lightning | Lightning Network | 5 | 0 | 4 | 1 | -0.20（中性） |
+| LND | Lightning Network | 1 | 0 | 0 | 1 | -0.33（负面） |
+| Stacks | BTC L2 / BTCFi | 1 | 1 | 0 | 0 | +1.00（正面） |
 
 ### 热门讨论（按互动量）
 
-- `10-27 09:18` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11424] ci: run PR severity classification on request, with a path floor and calibration  (enhancement, CI)](https://github.com/lightningnetwork/lnd/issues/11424)
-- `10-27 08:55` **LND** · GitHub Issue · 互动 0 · 正面：[[lightningnetwork/lnd#11423] ci: run heavy CI jobs on PRs only when opted in via label  (enhancement, CI)](https://github.com/lightningnetwork/lnd/issues/11423)
-- `10-27 02:26` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11416] [bug]: ComputeFee wraps a route hint proportional fee that overflows uint64  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11416)
-- `10-27 02:25` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11415] [bug]: zpay32.Decode wraps an invoice amount that overflows uint64  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11415)
-- `10-27 01:42` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9666] bolt11 decode wraps the amount around u64 for invoices of 2^64 pico-bitcoin or more](https://github.com/ElementsProject/lightning/issues/9666)
-- `10-27 00:08` **Core Lightning** · GitHub Issue · 互动 0 · 负面：[[ElementsProject/lightning#9665] CI flake `test_gossip_query_channel_range_cpu_throttle`](https://github.com/ElementsProject/lightning/issues/9665)
+- `10-27 14:37` **Stacks** · GitHub Issue · 互动 1 · 正面：[[stacks-network/stacks-core#7787] [Flaky Test] tests::nakamoto_integrations::follower_bootup_custom_chain_id  (flaky)](https://github.com/stacks-network/stacks-core/issues/7787)
+- `10-27 14:02` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11426] routerrpc: zero-hop blinded path in a BOLT 11 invoice panics SendPaymentV2 (recovered to an Internal error)](https://github.com/lightningnetwork/lnd/issues/11426)
+- `10-28 11:27` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9674] common/amount: parse_amount_sat misparses sub-satoshi msat with leading zero and accepts invalid suffixes](https://github.com/ElementsProject/lightning/issues/9674)
+- `10-28 05:44` **Core Lightning** · GitHub Issue · 互动 0 · 负面：[[ElementsProject/lightning#9673] createrune accepts an empty restriction, after which showrunes crashes lightningd (SIGSEGV)](https://github.com/ElementsProject/lightning/issues/9673)
+- `10-28 03:31` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9672] A route hint reusing a known short_channel_id changes that channel's CLTV in xpay route finding](https://github.com/ElementsProject/lightning/issues/9672)
+- `10-28 03:31` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9671] bolt11 decode accepts a duplicate p or s field and keeps the first](https://github.com/ElementsProject/lightning/issues/9671)
+- `10-27 22:02` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9668] bolt11 decode accepts a p, h, s or n field of the wrong length](https://github.com/ElementsProject/lightning/issues/9668)
 
 ### 负面反馈 / 风险线索
 
-- `10-27 09:18` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11424] ci: run PR severity classification on request, with a path floor and calibration  (enhancement, CI)](https://github.com/lightningnetwork/lnd/issues/11424)
-- `10-27 02:26` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11416] [bug]: ComputeFee wraps a route hint proportional fee that overflows uint64  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11416)
-- `10-27 02:25` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11415] [bug]: zpay32.Decode wraps an invoice amount that overflows uint64  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11415)
-- `10-27 00:08` **Core Lightning** · GitHub Issue · 情绪 -1.00：[[ElementsProject/lightning#9665] CI flake `test_gossip_query_channel_range_cpu_throttle`](https://github.com/ElementsProject/lightning/issues/9665)
+- `10-28 05:44` **Core Lightning** · GitHub Issue · 情绪 -1.00：[[ElementsProject/lightning#9673] createrune accepts an empty restriction, after which showrunes crashes lightningd (SIGSEGV)](https://github.com/ElementsProject/lightning/issues/9673)
+- `10-27 14:02` **LND** · GitHub Issue · 情绪 -0.33：[[lightningnetwork/lnd#11426] routerrpc: zero-hop blinded path in a BOLT 11 invoice panics SendPaymentV2 (recovered to an Internal error)](https://github.com/lightningnetwork/lnd/issues/11426)
 
 ## 6. 人工研判与跟进（人工填写）
 
@@ -101,7 +106,7 @@
 - usdt-lightning/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=USDT+lightning+%22taproot+assets%22&sort=new&t=week&limit=25
 - lnd/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=lnd+lightning+node&sort=new&t=week&limit=25
 - breez/github-release: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/releases?per_page=5
-- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-10-26T05%3A06%3A05.893159%2B00%3A00&per_page=20
+- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-10-27T05%3A43%3A07.488926%2B00%3A00&per_page=20
 - dog/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=DOG+rune+bitcoin&sort=new&t=week&limit=25
 - ordi/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=ORDI+brc20&sort=new&t=week&limit=25
 - stacks/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stacks+STX+sBTC&sort=new&t=week&limit=25
