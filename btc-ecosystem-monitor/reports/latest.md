@@ -1,6 +1,6 @@
-# BTC 生态项目监控报告 · 2026-11-01
+# BTC 生态项目监控报告 · 2026-11-02
 
-> 生成时间：2026-11-01 14:06 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 0 条 ｜ 反馈 1 条 ｜ 告警 1 条
+> 生成时间：2026-11-02 14:04 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 0 条 ｜ 反馈 4 条 ｜ 告警 0 条
 
 ## 1. 今日核心结论（人工填写）
 
@@ -11,43 +11,43 @@
 
 ## 2. 告警
 
-ℹ️ Core DAO (CORE) 24h 跑输 BTC 11.2 个百分点
+暂无触发阈值的告警。
 
 ## 3. 代币价格表现
 
-**基准 BTC：** $77,806.00 ｜ 1h 🟢 +0.05% ｜ 24h 🟢 +0.66% ｜ 7d 🔴 -3.77%
+**基准 BTC：** $78,317.00 ｜ 1h 🔴 -0.06% ｜ 24h 🟢 +0.66% ｜ 7d 🔴 -2.10%
 
-**24h 涨幅榜：** STX +6.8%、MERL +4.1%、ORDI +2.4%
+**24h 涨幅榜：** STX +1.1%、MERL +0.9%、CORE -0.1%
 
-**24h 跌幅榜：** CORE -10.6%、LIGHT -3.1%、BABY -0.4%
+**24h 跌幅榜：** BABY -2.3%、SATS -2.0%、DOG -1.8%
 
-### RGB（市值加权 24h：-3.07%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Bitlight Labs | LIGHT | $0.238691 | 🔴 -0.64% | 🔴 -3.07% | 🔴 -23.35% | 🔴 -3.72% | $10.28M | $1.49M | 0.14 |
-
-### Runes（市值加权 24h：+1.27%）
+### RGB（市值加权 24h：-1.38%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| DOG•GO•TO•THE•MOON | DOG | $0.00083743 | 🔴 -0.03% | 🟢 +1.27% | 🔴 -5.25% | 🟢 +0.62% | $83.78M | $357.73K | 0.00 |
+| Bitlight Labs | LIGHT | $0.235373 | 🔴 -1.07% | 🔴 -1.38% | 🔴 -4.09% | 🔴 -2.03% | $10.13M | $821.93K | 0.08 |
 
-### BRC-20 / Ordinals（市值加权 24h：+1.95%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ORDI | ORDI | $3.53 | 🔴 -0.09% | 🟢 +2.38% | 🔴 -2.17% | 🟢 +1.72% | $74.18M | $5.27M | 0.07 |
-| SATS (1000SATS) | SATS | $9.501e-09 | 🟢 +0.25% | 🟢 +0.35% | 🔴 -6.82% | 🔴 -0.31% | $19.95M | $606.63K | 0.03 |
-
-### BTC L2 / BTCFi（市值加权 24h：+5.52%）
+### Runes（市值加权 24h：-1.76%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Stacks | STX | $0.324724 | 🟢 +0.27% | 🟢 +6.78% | 🟢 +7.30% | 🟢 +6.12% | $610.36M | $78.45M | 0.13 |
-| Babylon | BABY | $0.0122015 | 🟢 +0.18% | 🔴 -0.43% | 🔴 -6.62% | 🔴 -1.09% | $63.17M | $3.57M | 0.06 |
-| Core DAO | CORE | $0.0136015 | 🔴 -0.30% | 🔴 -10.57% | 🔴 -24.00% | 🔴 -11.22% | $20.43M | $5.20M | 0.25 |
-| Merlin Chain | MERL | $0.0304016 | 🔴 -0.21% | 🟢 +4.07% | 🟢 +11.82% | 🟢 +3.41% | $43.45M | $7.76M | 0.18 |
+| DOG•GO•TO•THE•MOON | DOG | $0.00082194 | 🔴 -0.28% | 🔴 -1.76% | 🔴 -9.24% | 🔴 -2.42% | $82.19M | $308.67K | 0.00 |
+
+### BRC-20 / Ordinals（市值加权 24h：-1.63%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ORDI | ORDI | $3.48 | 🔴 -0.23% | 🔴 -1.53% | 🔴 -2.08% | 🔴 -2.18% | $73.01M | $6.14M | 0.08 |
+| SATS (1000SATS) | SATS | $9.308e-09 | 🔴 -0.41% | 🔴 -2.03% | 🔴 -6.50% | 🔴 -2.69% | $19.55M | $618.15K | 0.03 |
+
+### BTC L2 / BTCFi（市值加权 24h：+0.78%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Stacks | STX | $0.328688 | 🔴 -0.94% | 🟢 +1.11% | 🟢 +8.24% | 🟢 +0.45% | $617.83M | $25.46M | 0.04 |
+| Babylon | BABY | $0.0119343 | 🔴 -0.61% | 🔴 -2.26% | 🔴 -15.10% | 🔴 -2.91% | $61.79M | $3.53M | 0.06 |
+| Core DAO | CORE | $0.0135692 | 🔴 -0.70% | 🔴 -0.11% | 🔴 -21.14% | 🔴 -0.77% | $20.39M | $3.75M | 0.18 |
+| Merlin Chain | MERL | $0.0304525 | 🟢 +0.16% | 🟢 +0.86% | 🟢 +14.70% | 🟢 +0.20% | $43.54M | $4.75M | 0.11 |
 
 <sub>无可交易代币 / 未配置行情的项目：RGB Protocol (LNP/BP)、RGB Tools / Iris Wallet、USDT on RGB、Taproot Assets (Lightning Labs)、USDT on Lightning (Taproot Assets)、LND、Core Lightning、LDK / Lightning Dev Kit、Breez SDK</sub>
 
@@ -59,15 +59,21 @@
 
 | 项目 | 生态 | 样本 | 正面 | 中性 | 负面 | 平均情绪 |
 |---|---|---:|---:|---:|---:|---|
+| Taproot Assets (Lightning Labs) | Taproot Assets | 3 | 1 | 0 | 2 | -0.33（负面） |
 | LND | Lightning Network | 1 | 0 | 0 | 1 | -1.00（负面） |
 
 ### 热门讨论（按互动量）
 
-- `11-01 06:59` **LND** · GitHub Issue · 互动 2 · 负面：[[lightningnetwork/lnd#11467] [bug]: sweeper marks healthy inputs Fatal when a batch sibling was spent long ago (`getSpentInputs` is non-blocking) — funds stuck ~100 days  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11467)
+- `11-01 23:55` **Taproot Assets (Lightning Labs)** · GitHub Issue · 互动 1 · 负面：[[lightninglabs/taproot-assets#2373] Universe federation sync hangs with tapscript asset groups >100 issuances](https://github.com/lightninglabs/taproot-assets/issues/2373)
+- `11-01 23:05` **Taproot Assets (Lightning Labs)** · GitHub Issue · 互动 1 · 正面：[[lightninglabs/taproot-assets#2371] CI: Audit OIDC token configuration for deployment federation](https://github.com/lightninglabs/taproot-assets/issues/2371)
+- `11-01 23:54` **Taproot Assets (Lightning Labs)** · GitHub Issue · 互动 0 · 负面：[[lightninglabs/taproot-assets#2372] build: intermittent test failure in TestAssetMinting — environment configuration](https://github.com/lightninglabs/taproot-assets/issues/2372)
+- `11-01 22:30` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11468] [bug]: RBF coop close silently ignores a requested delivery address that conflicts with the upfront shutdown script (classic close returns an error)  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11468)
 
 ### 负面反馈 / 风险线索
 
-- `11-01 06:59` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11467] [bug]: sweeper marks healthy inputs Fatal when a batch sibling was spent long ago (`getSpentInputs` is non-blocking) — funds stuck ~100 days  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11467)
+- `11-01 23:55` **Taproot Assets (Lightning Labs)** · GitHub Issue · 情绪 -1.00：[[lightninglabs/taproot-assets#2373] Universe federation sync hangs with tapscript asset groups >100 issuances](https://github.com/lightninglabs/taproot-assets/issues/2373)
+- `11-01 23:54` **Taproot Assets (Lightning Labs)** · GitHub Issue · 情绪 -1.00：[[lightninglabs/taproot-assets#2372] build: intermittent test failure in TestAssetMinting — environment configuration](https://github.com/lightninglabs/taproot-assets/issues/2372)
+- `11-01 22:30` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11468] [bug]: RBF coop close silently ignores a requested delivery address that conflicts with the upfront shutdown script (classic close returns an error)  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11468)
 
 ## 6. 人工研判与跟进（人工填写）
 
@@ -90,7 +96,7 @@
 - usdt-lightning/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=USDT+lightning+%22taproot+assets%22&sort=new&t=week&limit=25
 - lnd/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=lnd+lightning+node&sort=new&t=week&limit=25
 - breez/github-release: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/releases?per_page=5
-- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-10-31T06%3A06%3A12.391868%2B00%3A00&per_page=20
+- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-01T06%3A04%3A08.432926%2B00%3A00&per_page=20
 - dog/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=DOG+rune+bitcoin&sort=new&t=week&limit=25
 - ordi/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=ORDI+brc20&sort=new&t=week&limit=25
 - stacks/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stacks+STX+sBTC&sort=new&t=week&limit=25
