@@ -1,6 +1,6 @@
-# BTC 生态项目监控报告 · 2026-11-04
+# BTC 生态项目监控报告 · 2026-11-05
 
-> 生成时间：2026-11-04 14:23 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 2 条 ｜ 反馈 6 条 ｜ 告警 0 条
+> 生成时间：2026-11-05 14:47 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 6 条 ｜ 反馈 4 条 ｜ 告警 1 条
 
 ## 1. 今日核心结论（人工填写）
 
@@ -11,77 +11,79 @@
 
 ## 2. 告警
 
-暂无触发阈值的告警。
+ℹ️ Core Lightning 新版本：[ElementsProject/lightning] v26.06.10 Quantum-Resistant Lightning Channel VII
 
 ## 3. 代币价格表现
 
-**基准 BTC：** $77,704.00 ｜ 1h 🟢 +0.45% ｜ 24h 🟢 +1.64% ｜ 7d 🔴 -3.94%
+**基准 BTC：** $80,471.00 ｜ 1h 🔴 -0.10% ｜ 24h 🟢 +3.41% ｜ 7d 🟢 +0.28%
 
-**24h 涨幅榜：** DOG +7.0%、STX +3.8%、BABY +1.6%
+**24h 涨幅榜：** CORE +8.8%、MERL +7.9%、DOG +6.2%
 
-**24h 跌幅榜：** MERL -5.4%、CORE -2.5%、SATS +1.4%
+**24h 跌幅榜：** ORDI +0.1%、SATS +0.4%、LIGHT +1.8%
 
-### RGB（市值加权 24h：+1.43%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Bitlight Labs | LIGHT | $0.241912 | 🔴 -0.02% | 🟢 +1.43% | 🔴 -16.61% | 🔴 -0.21% | $10.42M | $2.22M | 0.21 |
-
-### Runes（市值加权 24h：+7.01%）
+### RGB（市值加权 24h：+1.79%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| DOG•GO•TO•THE•MOON | DOG | $0.00081118 | 🟢 +0.15% | 🟢 +7.01% | 🔴 -12.34% | 🟢 +5.37% | $81.12M | $578.90K | 0.01 |
+| Bitlight Labs | LIGHT | $0.246092 | 🟢 +1.87% | 🟢 +1.79% | 🔴 -2.32% | 🔴 -1.63% | $10.60M | $3.32M | 0.31 |
 
-### BRC-20 / Ordinals（市值加权 24h：+1.54%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ORDI | ORDI | $3.42 | 🟢 +1.01% | 🟢 +1.57% | 🔴 -7.32% | 🔴 -0.07% | $71.89M | $6.25M | 0.09 |
-| SATS (1000SATS) | SATS | $9.093e-09 | 🟢 +1.48% | 🟢 +1.41% | 🔴 -10.82% | 🔴 -0.23% | $19.10M | $903.83K | 0.05 |
-
-### BTC L2 / BTCFi（市值加权 24h：+3.00%）
+### Runes（市值加权 24h：+6.18%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Stacks | STX | $0.332614 | 🟢 +2.40% | 🟢 +3.80% | 🟢 +9.98% | 🟢 +2.16% | $625.36M | $13.74M | 0.02 |
-| Babylon | BABY | $0.0116268 | 🟢 +0.50% | 🟢 +1.58% | 🔴 -18.27% | 🔴 -0.06% | $60.23M | $3.98M | 0.07 |
-| Core DAO | CORE | $0.0120115 | 🟢 +1.04% | 🔴 -2.52% | 🔴 -31.77% | 🔴 -4.16% | $18.05M | $2.02M | 0.11 |
-| Merlin Chain | MERL | $0.0265857 | 🟢 +1.05% | 🔴 -5.38% | 🔴 -2.58% | 🔴 -7.02% | $38.01M | $2.66M | 0.07 |
+| DOG•GO•TO•THE•MOON | DOG | $0.00086845 | 🔴 -0.22% | 🟢 +6.18% | 🔴 -3.04% | 🟢 +2.77% | $86.85M | $639.64K | 0.01 |
+
+### BRC-20 / Ordinals（市值加权 24h：+0.20%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ORDI | ORDI | $3.45 | 🟢 +0.22% | 🟢 +0.14% | 🔴 -4.58% | 🔴 -3.28% | $72.40M | $10.37M | 0.14 |
+| SATS (1000SATS) | SATS | $9.15e-09 | 🔴 -0.29% | 🟢 +0.41% | 🔴 -8.34% | 🔴 -3.00% | $19.21M | $1.77M | 0.09 |
+
+### BTC L2 / BTCFi（市值加权 24h：+5.29%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Stacks | STX | $0.350254 | 🔴 -0.11% | 🟢 +5.03% | 🟢 +28.73% | 🟢 +1.61% | $658.62M | $49.37M | 0.07 |
+| Babylon | BABY | $0.0122717 | 🔴 -0.22% | 🟢 +5.28% | 🔴 -12.69% | 🟢 +1.86% | $63.59M | $4.99M | 0.08 |
+| Core DAO | CORE | $0.0130378 | 🟢 +0.84% | 🟢 +8.82% | 🔴 -24.15% | 🟢 +5.40% | $19.59M | $2.71M | 0.14 |
+| Merlin Chain | MERL | $0.0288197 | 🔴 -1.19% | 🟢 +7.93% | 🟢 +14.74% | 🟢 +4.52% | $41.21M | $4.58M | 0.11 |
 
 <sub>无可交易代币 / 未配置行情的项目：RGB Protocol (LNP/BP)、RGB Tools / Iris Wallet、USDT on RGB、Taproot Assets (Lightning Labs)、USDT on Lightning (Taproot Assets)、LND、Core Lightning、LDK / Lightning Dev Kit、Breez SDK</sub>
 
 ## 4. 最新项目公告
 
+### Lightning Network
+
+- `11-04 21:34` **Core Lightning** · GitHub Release：[[ElementsProject/lightning] v26.06.10 Quantum-Resistant Lightning Channel VII](https://github.com/ElementsProject/lightning/releases/tag/v26.06.10)
+
 ### BTC L2 / BTCFi
 
-- `11-04 10:34` **Stacks** · 官方博客：[ALEX Buyback & Burn: Fourth Progress Report](https://www.stacks.co/blog/alex-buyback-burn-fourth-progress-report)
-- `11-04 03:27` **Stacks** · 官方博客：[BitGo Announces Bitcoin Staking with Stacks for Institutional Clients in Qualified Custody](https://www.stacks.co/blog/bitgo-announces-bitcoin-staking-with-stacks-for-institutional-clients-in-qualified-custody)
+- `11-05 09:55` **Stacks** · 官方博客：[Community Update: ALEX to Delist from MEXC on Nov 7](https://www.stacks.co/blog/community-update-alex-to-delist-from-mexc-on-nov-7)
+- `11-05 07:44` **Stacks** · 官方博客：[How Stacks Is Building Bitcoin Capital Markets](https://www.stacks.co/blog/stacks-bitcoin-capital-markets)
+- `11-05 01:29` **Stacks** · 官方博客：[Auction-Based Self-Custodial Bitcoin Staking: A PoX-6 Deep Dive](https://www.stacks.co/blog/auction-based-self-custodial-bitcoin-staking-pox-6)
+- `11-05 01:14` **Stacks** · 官方博客：[What Are Bitcoin Capital Markets? Yield, Credit and Trading for the World's Leading Digital Asset](https://www.stacks.co/blog/bitcoin-capital-markets)
+- `11-05 00:57` **Stacks** · 官方博客：[October Recap: New CAB Rosters and the Road to Stacks 4.1](https://www.stacks.co/blog/october-recap-new-cab-rosters-and-the-road-to-stacks-4-1)
 
 ## 5. 用户反馈与舆情
 
 | 项目 | 生态 | 样本 | 正面 | 中性 | 负面 | 平均情绪 |
 |---|---|---:|---:|---:|---:|---|
-| Taproot Assets (Lightning Labs) | Taproot Assets | 3 | 0 | 0 | 3 | -1.00（负面） |
 | LND | Lightning Network | 2 | 0 | 0 | 2 | -1.00（负面） |
+| Core Lightning | Lightning Network | 1 | 0 | 1 | 0 | +0.00（中性） |
 | Stacks | BTC L2 / BTCFi | 1 | 0 | 1 | 0 | +0.00（中性） |
 
 ### 热门讨论（按互动量）
 
-- `11-03 23:55` **LND** · GitHub Issue · 互动 2 · 负面：[[lightningnetwork/lnd#11476] [bug]: wtclient calls FetchChannelByID per backup task, which scans all channel buckets (incl. tombstoned closes) — CPU and RPC latency grow with every close on postgres](https://github.com/lightningnetwork/lnd/issues/11476)
-- `11-03 14:31` **Stacks** · GitHub Issue · 互动 1 · 中性：[[stacks-network/stacks-core#7814] [Flaky Test] tests::signer::v0::multiple_miners_with_nakamoto_blocks  (flaky)](https://github.com/stacks-network/stacks-core/issues/7814)
-- `11-04 01:40` **Taproot Assets (Lightning Labs)** · GitHub Issue · 互动 0 · 负面：[[lightninglabs/taproot-assets#2378] proof: publisher retains orphaned external-output proof after funding reconfirms](https://github.com/lightninglabs/taproot-assets/issues/2378)
-- `11-03 20:57` **Taproot Assets (Lightning Labs)** · GitHub Issue · 互动 0 · 负面：[[lightninglabs/taproot-assets#2376] tapfreighter: reorg between output proof writes leaves sender change unavailable until restart  (bug, reorg)](https://github.com/lightninglabs/taproot-assets/issues/2376)
-- `11-03 17:49` **Taproot Assets (Lightning Labs)** · GitHub Issue · 互动 0 · 负面：[[lightninglabs/taproot-assets#2374] [feature]: add specific field to `QueryAssetRates` for payment amount to be swapped  (enhancement)](https://github.com/lightninglabs/taproot-assets/issues/2374)
-- `11-04 01:28` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11477] signal: exit code for an unavailable aux component (AuxSigner / tapd)  (enhancement, monitoring)](https://github.com/lightningnetwork/lnd/issues/11477)
+- `11-05 12:31` **LND** · GitHub Issue · 互动 1 · 负面：[[lightningnetwork/lnd#11507] Nightly CI failure  (nightly-failure)](https://github.com/lightningnetwork/lnd/issues/11507)
+- `11-05 03:09` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11488] [bug]: RBF cooperative close never tears down the link/channel, leaving a stale link in the switch (classic close does)  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11488)
+- `11-04 15:54` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9691] xpay should have a maxparts argument](https://github.com/ElementsProject/lightning/issues/9691)
+- `11-04 21:43` **Stacks** · GitHub Issue · 互动 0 · 中性：[[stacks-network/stacks-core#7817] Remove code duplication in static transaction checks](https://github.com/stacks-network/stacks-core/issues/7817)
 
 ### 负面反馈 / 风险线索
 
-- `11-04 01:40` **Taproot Assets (Lightning Labs)** · GitHub Issue · 情绪 -1.00：[[lightninglabs/taproot-assets#2378] proof: publisher retains orphaned external-output proof after funding reconfirms](https://github.com/lightninglabs/taproot-assets/issues/2378)
-- `11-03 20:57` **Taproot Assets (Lightning Labs)** · GitHub Issue · 情绪 -1.00：[[lightninglabs/taproot-assets#2376] tapfreighter: reorg between output proof writes leaves sender change unavailable until restart  (bug, reorg)](https://github.com/lightninglabs/taproot-assets/issues/2376)
-- `11-03 17:49` **Taproot Assets (Lightning Labs)** · GitHub Issue · 情绪 -1.00：[[lightninglabs/taproot-assets#2374] [feature]: add specific field to `QueryAssetRates` for payment amount to be swapped  (enhancement)](https://github.com/lightninglabs/taproot-assets/issues/2374)
-- `11-04 01:28` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11477] signal: exit code for an unavailable aux component (AuxSigner / tapd)  (enhancement, monitoring)](https://github.com/lightningnetwork/lnd/issues/11477)
-- `11-03 23:55` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11476] [bug]: wtclient calls FetchChannelByID per backup task, which scans all channel buckets (incl. tombstoned closes) — CPU and RPC latency grow with every close on postgres](https://github.com/lightningnetwork/lnd/issues/11476)
+- `11-05 12:31` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11507] Nightly CI failure  (nightly-failure)](https://github.com/lightningnetwork/lnd/issues/11507)
+- `11-05 03:09` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11488] [bug]: RBF cooperative close never tears down the link/channel, leaving a stale link in the switch (classic close does)  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11488)
 
 ## 6. 人工研判与跟进（人工填写）
 
@@ -104,7 +106,7 @@
 - usdt-lightning/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=USDT+lightning+%22taproot+assets%22&sort=new&t=week&limit=25
 - lnd/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=lnd+lightning+node&sort=new&t=week&limit=25
 - breez/github-release: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/releases?per_page=5
-- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-03T06%3A23%3A41.554040%2B00%3A00&per_page=20
+- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-04T06%3A47%3A50.949809%2B00%3A00&per_page=20
 - dog/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=DOG+rune+bitcoin&sort=new&t=week&limit=25
 - ordi/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=ORDI+brc20&sort=new&t=week&limit=25
 - stacks/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stacks+STX+sBTC&sort=new&t=week&limit=25
