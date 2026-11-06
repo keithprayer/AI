@@ -1,6 +1,6 @@
-# BTC 生态项目监控报告 · 2026-11-05
+# BTC 生态项目监控报告 · 2026-11-06
 
-> 生成时间：2026-11-05 14:47 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 6 条 ｜ 反馈 4 条 ｜ 告警 1 条
+> 生成时间：2026-11-06 14:46 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 1 条 ｜ 反馈 6 条 ｜ 告警 1 条
 
 ## 1. 今日核心结论（人工填写）
 
@@ -11,79 +11,74 @@
 
 ## 2. 告警
 
-ℹ️ Core Lightning 新版本：[ElementsProject/lightning] v26.06.10 Quantum-Resistant Lightning Channel VII
+ℹ️ Merlin Chain (MERL) 24h 跑赢 BTC 13.8 个百分点
 
 ## 3. 代币价格表现
 
-**基准 BTC：** $80,471.00 ｜ 1h 🔴 -0.10% ｜ 24h 🟢 +3.41% ｜ 7d 🟢 +0.28%
+**基准 BTC：** $75,643.00 ｜ 1h 🔴 -0.10% ｜ 24h 🔴 -6.04% ｜ 7d 🔴 -3.23%
 
-**24h 涨幅榜：** CORE +8.8%、MERL +7.9%、DOG +6.2%
+**24h 涨幅榜：** MERL +7.7%、CORE -0.6%、LIGHT -2.1%
 
-**24h 跌幅榜：** ORDI +0.1%、SATS +0.4%、LIGHT +1.8%
+**24h 跌幅榜：** SATS -6.8%、DOG -6.2%、BABY -6.1%
 
-### RGB（市值加权 24h：+1.79%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Bitlight Labs | LIGHT | $0.246092 | 🟢 +1.87% | 🟢 +1.79% | 🔴 -2.32% | 🔴 -1.63% | $10.60M | $3.32M | 0.31 |
-
-### Runes（市值加权 24h：+6.18%）
+### RGB（市值加权 24h：-2.09%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| DOG•GO•TO•THE•MOON | DOG | $0.00086845 | 🔴 -0.22% | 🟢 +6.18% | 🔴 -3.04% | 🟢 +2.77% | $86.85M | $639.64K | 0.01 |
+| Bitlight Labs | LIGHT | $0.24095 | 🟢 +0.06% | 🔴 -2.09% | 🔴 -5.84% | 🟢 +3.95% | $10.37M | $2.24M | 0.22 |
 
-### BRC-20 / Ordinals（市值加权 24h：+0.20%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ORDI | ORDI | $3.45 | 🟢 +0.22% | 🟢 +0.14% | 🔴 -4.58% | 🔴 -3.28% | $72.40M | $10.37M | 0.14 |
-| SATS (1000SATS) | SATS | $9.15e-09 | 🔴 -0.29% | 🟢 +0.41% | 🔴 -8.34% | 🔴 -3.00% | $19.21M | $1.77M | 0.09 |
-
-### BTC L2 / BTCFi（市值加权 24h：+5.29%）
+### Runes（市值加权 24h：-6.23%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Stacks | STX | $0.350254 | 🔴 -0.11% | 🟢 +5.03% | 🟢 +28.73% | 🟢 +1.61% | $658.62M | $49.37M | 0.07 |
-| Babylon | BABY | $0.0122717 | 🔴 -0.22% | 🟢 +5.28% | 🔴 -12.69% | 🟢 +1.86% | $63.59M | $4.99M | 0.08 |
-| Core DAO | CORE | $0.0130378 | 🟢 +0.84% | 🟢 +8.82% | 🔴 -24.15% | 🟢 +5.40% | $19.59M | $2.71M | 0.14 |
-| Merlin Chain | MERL | $0.0288197 | 🔴 -1.19% | 🟢 +7.93% | 🟢 +14.74% | 🟢 +4.52% | $41.21M | $4.58M | 0.11 |
+| DOG•GO•TO•THE•MOON | DOG | $0.00081755 | 🔴 -0.52% | 🔴 -6.23% | 🟢 +0.17% | 🔴 -0.18% | $81.76M | $534.82K | 0.01 |
+
+### BRC-20 / Ordinals（市值加权 24h：-6.15%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ORDI | ORDI | $3.24 | 🔴 -0.25% | 🔴 -5.99% | 🔴 -5.38% | 🟢 +0.05% | $68.06M | $12.32M | 0.18 |
+| SATS (1000SATS) | SATS | $8.536e-09 | 🔴 -0.09% | 🔴 -6.77% | 🔴 -9.06% | 🔴 -0.72% | $17.93M | $1.41M | 0.08 |
+
+### BTC L2 / BTCFi（市值加权 24h：-3.13%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Stacks | STX | $0.33735 | 🔴 -3.03% | 🔴 -3.69% | 🟢 +18.47% | 🟢 +2.35% | $634.49M | $40.76M | 0.06 |
+| Babylon | BABY | $0.0115247 | 🔴 -1.85% | 🔴 -6.11% | 🔴 -6.88% | 🔴 -0.07% | $59.72M | $4.57M | 0.08 |
+| Core DAO | CORE | $0.0129579 | 🟢 +0.72% | 🔴 -0.56% | 🔴 -15.47% | 🟢 +5.48% | $19.47M | $3.60M | 0.19 |
+| Merlin Chain | MERL | $0.0310687 | 🟢 +0.09% | 🟢 +7.75% | 🟢 +14.83% | 🟢 +13.79% | $44.43M | $11.17M | 0.25 |
 
 <sub>无可交易代币 / 未配置行情的项目：RGB Protocol (LNP/BP)、RGB Tools / Iris Wallet、USDT on RGB、Taproot Assets (Lightning Labs)、USDT on Lightning (Taproot Assets)、LND、Core Lightning、LDK / Lightning Dev Kit、Breez SDK</sub>
 
 ## 4. 最新项目公告
 
-### Lightning Network
-
-- `11-04 21:34` **Core Lightning** · GitHub Release：[[ElementsProject/lightning] v26.06.10 Quantum-Resistant Lightning Channel VII](https://github.com/ElementsProject/lightning/releases/tag/v26.06.10)
-
 ### BTC L2 / BTCFi
 
-- `11-05 09:55` **Stacks** · 官方博客：[Community Update: ALEX to Delist from MEXC on Nov 7](https://www.stacks.co/blog/community-update-alex-to-delist-from-mexc-on-nov-7)
-- `11-05 07:44` **Stacks** · 官方博客：[How Stacks Is Building Bitcoin Capital Markets](https://www.stacks.co/blog/stacks-bitcoin-capital-markets)
-- `11-05 01:29` **Stacks** · 官方博客：[Auction-Based Self-Custodial Bitcoin Staking: A PoX-6 Deep Dive](https://www.stacks.co/blog/auction-based-self-custodial-bitcoin-staking-pox-6)
-- `11-05 01:14` **Stacks** · 官方博客：[What Are Bitcoin Capital Markets? Yield, Credit and Trading for the World's Leading Digital Asset](https://www.stacks.co/blog/bitcoin-capital-markets)
-- `11-05 00:57` **Stacks** · 官方博客：[October Recap: New CAB Rosters and the Road to Stacks 4.1](https://www.stacks.co/blog/october-recap-new-cab-rosters-and-the-road-to-stacks-4-1)
+- `11-05 22:18` **Stacks** · 官方博客：[Stacks Bond 3 Sells Out With Bullish and 21shares Among Its Participants](https://www.stacks.co/blog/stacks-bond-3-sells-out-with-21shares-and-bullish)
 
 ## 5. 用户反馈与舆情
 
 | 项目 | 生态 | 样本 | 正面 | 中性 | 负面 | 平均情绪 |
 |---|---|---:|---:|---:|---:|---|
-| LND | Lightning Network | 2 | 0 | 0 | 2 | -1.00（负面） |
-| Core Lightning | Lightning Network | 1 | 0 | 1 | 0 | +0.00（中性） |
-| Stacks | BTC L2 / BTCFi | 1 | 0 | 1 | 0 | +0.00（中性） |
+| LND | Lightning Network | 2 | 0 | 1 | 1 | -0.50（负面） |
+| Core Lightning | Lightning Network | 2 | 0 | 2 | 0 | +0.00（中性） |
+| Taproot Assets (Lightning Labs) | Taproot Assets | 1 | 0 | 0 | 1 | -1.00（负面） |
+| Stacks | BTC L2 / BTCFi | 1 | 1 | 0 | 0 | +1.00（正面） |
 
 ### 热门讨论（按互动量）
 
-- `11-05 12:31` **LND** · GitHub Issue · 互动 1 · 负面：[[lightningnetwork/lnd#11507] Nightly CI failure  (nightly-failure)](https://github.com/lightningnetwork/lnd/issues/11507)
-- `11-05 03:09` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11488] [bug]: RBF cooperative close never tears down the link/channel, leaving a stale link in the switch (classic close does)  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11488)
-- `11-04 15:54` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9691] xpay should have a maxparts argument](https://github.com/ElementsProject/lightning/issues/9691)
-- `11-04 21:43` **Stacks** · GitHub Issue · 互动 0 · 中性：[[stacks-network/stacks-core#7817] Remove code duplication in static transaction checks](https://github.com/stacks-network/stacks-core/issues/7817)
+- `11-05 18:03` **Taproot Assets (Lightning Labs)** · GitHub Issue · 互动 0 · 负面：[[lightninglabs/taproot-assets#2381] universe: incorporate asset id in leaf key  (universe, proofs, ms-smt)](https://github.com/lightninglabs/taproot-assets/issues/2381)
+- `11-05 23:02` **LND** · GitHub Issue · 互动 0 · 中性：[[lightningnetwork/lnd#11522] sweep/wallet: consolidate small wallet UTXOs when fees are low](https://github.com/lightningnetwork/lnd/issues/11522)
+- `11-05 21:30` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11517] [bug]: btcd backend: closed channels stay in the graph after a websocket reconnect, so peers ban the node for outdated gossip](https://github.com/lightningnetwork/lnd/issues/11517)
+- `11-06 01:09` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9700] bitcoin/short_channel_id: short_channel_id_from_str accepts trailing garbage, negative numbers, and whitespace](https://github.com/ElementsProject/lightning/issues/9700)
+- `11-05 23:07` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9697] Guarantee a full channel transaction history: record funding txs from block scans and from the mempool](https://github.com/ElementsProject/lightning/issues/9697)
+- `11-05 21:15` **Stacks** · GitHub Issue · 互动 0 · 正面：[[stacks-network/stacks-core#7822] Stall 2026-11-04: Miner re-mines at already accepted height](https://github.com/stacks-network/stacks-core/issues/7822)
 
 ### 负面反馈 / 风险线索
 
-- `11-05 12:31` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11507] Nightly CI failure  (nightly-failure)](https://github.com/lightningnetwork/lnd/issues/11507)
-- `11-05 03:09` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11488] [bug]: RBF cooperative close never tears down the link/channel, leaving a stale link in the switch (classic close does)  (bug, needs triage)](https://github.com/lightningnetwork/lnd/issues/11488)
+- `11-05 18:03` **Taproot Assets (Lightning Labs)** · GitHub Issue · 情绪 -1.00：[[lightninglabs/taproot-assets#2381] universe: incorporate asset id in leaf key  (universe, proofs, ms-smt)](https://github.com/lightninglabs/taproot-assets/issues/2381)
+- `11-05 21:30` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11517] [bug]: btcd backend: closed channels stay in the graph after a websocket reconnect, so peers ban the node for outdated gossip](https://github.com/lightningnetwork/lnd/issues/11517)
 
 ## 6. 人工研判与跟进（人工填写）
 
@@ -106,7 +101,7 @@
 - usdt-lightning/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=USDT+lightning+%22taproot+assets%22&sort=new&t=week&limit=25
 - lnd/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=lnd+lightning+node&sort=new&t=week&limit=25
 - breez/github-release: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/releases?per_page=5
-- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-04T06%3A47%3A50.949809%2B00%3A00&per_page=20
+- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-05T06%3A46%3A52.256901%2B00%3A00&per_page=20
 - dog/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=DOG+rune+bitcoin&sort=new&t=week&limit=25
 - ordi/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=ORDI+brc20&sort=new&t=week&limit=25
 - stacks/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stacks+STX+sBTC&sort=new&t=week&limit=25
