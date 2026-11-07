@@ -1,6 +1,6 @@
-# BTC 生态项目监控报告 · 2026-11-06
+# BTC 生态项目监控报告 · 2026-11-07
 
-> 生成时间：2026-11-06 14:46 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 1 条 ｜ 反馈 6 条 ｜ 告警 1 条
+> 生成时间：2026-11-07 13:58 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 1 条 ｜ 反馈 7 条 ｜ 告警 0 条
 
 ## 1. 今日核心结论（人工填写）
 
@@ -11,43 +11,43 @@
 
 ## 2. 告警
 
-ℹ️ Merlin Chain (MERL) 24h 跑赢 BTC 13.8 个百分点
+暂无触发阈值的告警。
 
 ## 3. 代币价格表现
 
-**基准 BTC：** $75,643.00 ｜ 1h 🔴 -0.10% ｜ 24h 🔴 -6.04% ｜ 7d 🔴 -3.23%
+**基准 BTC：** $75,954.00 ｜ 1h 🟢 +0.02% ｜ 24h 🟢 +0.45% ｜ 7d 🔴 -1.63%
 
-**24h 涨幅榜：** MERL +7.7%、CORE -0.6%、LIGHT -2.1%
+**24h 涨幅榜：** STX +4.5%、LIGHT +2.9%、SATS +2.5%
 
-**24h 跌幅榜：** SATS -6.8%、DOG -6.2%、BABY -6.1%
+**24h 跌幅榜：** MERL -3.0%、BABY -2.6%、CORE -1.5%
 
-### RGB（市值加权 24h：-2.09%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Bitlight Labs | LIGHT | $0.24095 | 🟢 +0.06% | 🔴 -2.09% | 🔴 -5.84% | 🟢 +3.95% | $10.37M | $2.24M | 0.22 |
-
-### Runes（市值加权 24h：-6.23%）
+### RGB（市值加权 24h：+2.89%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| DOG•GO•TO•THE•MOON | DOG | $0.00081755 | 🔴 -0.52% | 🔴 -6.23% | 🟢 +0.17% | 🔴 -0.18% | $81.76M | $534.82K | 0.01 |
+| Bitlight Labs | LIGHT | $0.241285 | 🟢 +1.35% | 🟢 +2.89% | 🔴 -2.09% | 🟢 +2.44% | $10.39M | $1.34M | 0.13 |
 
-### BRC-20 / Ordinals（市值加权 24h：-6.15%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ORDI | ORDI | $3.24 | 🔴 -0.25% | 🔴 -5.99% | 🔴 -5.38% | 🟢 +0.05% | $68.06M | $12.32M | 0.18 |
-| SATS (1000SATS) | SATS | $8.536e-09 | 🔴 -0.09% | 🔴 -6.77% | 🔴 -9.06% | 🔴 -0.72% | $17.93M | $1.41M | 0.08 |
-
-### BTC L2 / BTCFi（市值加权 24h：-3.13%）
+### Runes（市值加权 24h：-0.20%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Stacks | STX | $0.33735 | 🔴 -3.03% | 🔴 -3.69% | 🟢 +18.47% | 🟢 +2.35% | $634.49M | $40.76M | 0.06 |
-| Babylon | BABY | $0.0115247 | 🔴 -1.85% | 🔴 -6.11% | 🔴 -6.88% | 🔴 -0.07% | $59.72M | $4.57M | 0.08 |
-| Core DAO | CORE | $0.0129579 | 🟢 +0.72% | 🔴 -0.56% | 🔴 -15.47% | 🟢 +5.48% | $19.47M | $3.60M | 0.19 |
-| Merlin Chain | MERL | $0.0310687 | 🟢 +0.09% | 🟢 +7.75% | 🟢 +14.83% | 🟢 +13.79% | $44.43M | $11.17M | 0.25 |
+| DOG•GO•TO•THE•MOON | DOG | $0.00081976 | 🟢 +0.26% | 🔴 -0.20% | 🔴 -0.96% | 🔴 -0.65% | $81.98M | $331.57K | 0.00 |
+
+### BRC-20 / Ordinals（市值加权 24h：+1.33%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ORDI | ORDI | $3.26 | 🟢 +0.26% | 🟢 +1.02% | 🔴 -6.59% | 🟢 +0.57% | $68.47M | $7.12M | 0.10 |
+| SATS (1000SATS) | SATS | $8.709e-09 | 🟢 +0.10% | 🟢 +2.48% | 🔴 -8.23% | 🟢 +2.03% | $18.29M | $730.56K | 0.04 |
+
+### BTC L2 / BTCFi（市值加权 24h：+3.41%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Stacks | STX | $0.346412 | 🔴 -0.48% | 🟢 +4.51% | 🟢 +14.96% | 🟢 +4.06% | $651.56M | $20.05M | 0.03 |
+| Babylon | BABY | $0.0112329 | 🟢 +0.46% | 🔴 -2.55% | 🔴 -8.77% | 🔴 -3.00% | $58.24M | $3.26M | 0.06 |
+| Core DAO | CORE | $0.0128226 | 🟢 +0.40% | 🔴 -1.53% | 🔴 -16.33% | 🔴 -1.98% | $19.27M | $1.94M | 0.10 |
+| Merlin Chain | MERL | $0.0297842 | 🟢 +0.44% | 🔴 -3.00% | 🟢 +2.41% | 🔴 -3.45% | $42.59M | $7.44M | 0.17 |
 
 <sub>无可交易代币 / 未配置行情的项目：RGB Protocol (LNP/BP)、RGB Tools / Iris Wallet、USDT on RGB、Taproot Assets (Lightning Labs)、USDT on Lightning (Taproot Assets)、LND、Core Lightning、LDK / Lightning Dev Kit、Breez SDK</sub>
 
@@ -55,30 +55,34 @@
 
 ### BTC L2 / BTCFi
 
-- `11-05 22:18` **Stacks** · 官方博客：[Stacks Bond 3 Sells Out With Bullish and 21shares Among Its Participants](https://www.stacks.co/blog/stacks-bond-3-sells-out-with-21shares-and-bullish)
+- `11-07 01:07` **Stacks** · 官方博客：[🍿 Bullish & 21Shares Sell Out Bond 3, BitGo Joins Bitcoin Staking](https://www.stacks.co/blog/bullish-21shares-sell-out-bond-3-bitgo-joins-bitcoin-staking)
 
 ## 5. 用户反馈与舆情
 
 | 项目 | 生态 | 样本 | 正面 | 中性 | 负面 | 平均情绪 |
 |---|---|---:|---:|---:|---:|---|
+| RGB Tools / Iris Wallet | RGB | 3 | 0 | 0 | 3 | -0.42（负面） |
 | LND | Lightning Network | 2 | 0 | 1 | 1 | -0.50（负面） |
-| Core Lightning | Lightning Network | 2 | 0 | 2 | 0 | +0.00（中性） |
-| Taproot Assets (Lightning Labs) | Taproot Assets | 1 | 0 | 0 | 1 | -1.00（负面） |
-| Stacks | BTC L2 / BTCFi | 1 | 1 | 0 | 0 | +1.00（正面） |
+| Core Lightning | Lightning Network | 1 | 0 | 1 | 0 | +0.00（中性） |
+| LDK / Lightning Dev Kit | Lightning Network | 1 | 0 | 0 | 1 | -1.00（负面） |
 
 ### 热门讨论（按互动量）
 
-- `11-05 18:03` **Taproot Assets (Lightning Labs)** · GitHub Issue · 互动 0 · 负面：[[lightninglabs/taproot-assets#2381] universe: incorporate asset id in leaf key  (universe, proofs, ms-smt)](https://github.com/lightninglabs/taproot-assets/issues/2381)
-- `11-05 23:02` **LND** · GitHub Issue · 互动 0 · 中性：[[lightningnetwork/lnd#11522] sweep/wallet: consolidate small wallet UTXOs when fees are low](https://github.com/lightningnetwork/lnd/issues/11522)
-- `11-05 21:30` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11517] [bug]: btcd backend: closed channels stay in the graph after a websocket reconnect, so peers ban the node for outdated gossip](https://github.com/lightningnetwork/lnd/issues/11517)
-- `11-06 01:09` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9700] bitcoin/short_channel_id: short_channel_id_from_str accepts trailing garbage, negative numbers, and whitespace](https://github.com/ElementsProject/lightning/issues/9700)
-- `11-05 23:07` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9697] Guarantee a full channel transaction history: record funding txs from block scans and from the mempool](https://github.com/ElementsProject/lightning/issues/9697)
-- `11-05 21:15` **Stacks** · GitHub Issue · 互动 0 · 正面：[[stacks-network/stacks-core#7822] Stall 2026-11-04: Miner re-mines at already accepted height](https://github.com/stacks-network/stacks-core/issues/7822)
+- `11-07 01:53` **RGB Tools / Iris Wallet** · GitHub Issue · 互动 2 · 负面：[[RGB-Tools/rgb-lightning-node#189] Channel funding skips the RGB reject list](https://github.com/RGB-Tools/rgb-lightning-node/issues/189)
+- `11-07 02:54` **RGB Tools / Iris Wallet** · GitHub Issue · 互动 1 · 负面：[[RGB-Tools/rgb-lightning-node#190] Peer-triggered panic in handle_funding](https://github.com/RGB-Tools/rgb-lightning-node/issues/190)
+- `11-06 18:57` **LDK / Lightning Dev Kit** · GitHub Issue · 互动 1 · 负面：[[lightningdevkit/rust-lightning#4763] MonitorUpdatingPersisterAsync can leave a gap in stored updates, which panics on every restart](https://github.com/lightningdevkit/rust-lightning/issues/4763)
+- `11-06 18:36` **RGB Tools / Iris Wallet** · GitHub Issue · 互动 0 · 负面：[[RGB-Tools/rgb-lightning-node#188] Expose the outcome of anchor CPFP fee bumps for force-closed channels](https://github.com/RGB-Tools/rgb-lightning-node/issues/188)
+- `11-07 06:48` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11533] [bug]: GetTransactions with start_height > end_height returns no mined transactions on sqlite/postgres](https://github.com/lightningnetwork/lnd/issues/11533)
+- `11-06 18:16` **LND** · GitHub Issue · 互动 0 · 中性：[[lightningnetwork/lnd#11530] remotesigner: generate MuSig2 nonces on signer](https://github.com/lightningnetwork/lnd/issues/11530)
+- `11-07 03:00` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9708] Peer does not allow v1+ shutdown addresses](https://github.com/ElementsProject/lightning/issues/9708)
 
 ### 负面反馈 / 风险线索
 
-- `11-05 18:03` **Taproot Assets (Lightning Labs)** · GitHub Issue · 情绪 -1.00：[[lightninglabs/taproot-assets#2381] universe: incorporate asset id in leaf key  (universe, proofs, ms-smt)](https://github.com/lightninglabs/taproot-assets/issues/2381)
-- `11-05 21:30` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11517] [bug]: btcd backend: closed channels stay in the graph after a websocket reconnect, so peers ban the node for outdated gossip](https://github.com/lightningnetwork/lnd/issues/11517)
+- `11-07 06:48` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11533] [bug]: GetTransactions with start_height > end_height returns no mined transactions on sqlite/postgres](https://github.com/lightningnetwork/lnd/issues/11533)
+- `11-06 18:57` **LDK / Lightning Dev Kit** · GitHub Issue · 情绪 -1.00：[[lightningdevkit/rust-lightning#4763] MonitorUpdatingPersisterAsync can leave a gap in stored updates, which panics on every restart](https://github.com/lightningdevkit/rust-lightning/issues/4763)
+- `11-06 18:36` **RGB Tools / Iris Wallet** · GitHub Issue · 情绪 -0.60：[[RGB-Tools/rgb-lightning-node#188] Expose the outcome of anchor CPFP fee bumps for force-closed channels](https://github.com/RGB-Tools/rgb-lightning-node/issues/188)
+- `11-07 02:54` **RGB Tools / Iris Wallet** · GitHub Issue · 情绪 -0.33：[[RGB-Tools/rgb-lightning-node#190] Peer-triggered panic in handle_funding](https://github.com/RGB-Tools/rgb-lightning-node/issues/190)
+- `11-07 01:53` **RGB Tools / Iris Wallet** · GitHub Issue · 情绪 -0.33：[[RGB-Tools/rgb-lightning-node#189] Channel funding skips the RGB reject list](https://github.com/RGB-Tools/rgb-lightning-node/issues/189)
 
 ## 6. 人工研判与跟进（人工填写）
 
@@ -101,7 +105,7 @@
 - usdt-lightning/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=USDT+lightning+%22taproot+assets%22&sort=new&t=week&limit=25
 - lnd/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=lnd+lightning+node&sort=new&t=week&limit=25
 - breez/github-release: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/releases?per_page=5
-- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-05T06%3A46%3A52.256901%2B00%3A00&per_page=20
+- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-06T05%3A58%3A49.367378%2B00%3A00&per_page=20
 - dog/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=DOG+rune+bitcoin&sort=new&t=week&limit=25
 - ordi/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=ORDI+brc20&sort=new&t=week&limit=25
 - stacks/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stacks+STX+sBTC&sort=new&t=week&limit=25
