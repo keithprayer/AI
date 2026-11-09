@@ -1,6 +1,6 @@
-# BTC 生态项目监控报告 · 2026-11-08
+# BTC 生态项目监控报告 · 2026-11-09
 
-> 生成时间：2026-11-08 14:01 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 0 条 ｜ 反馈 3 条 ｜ 告警 0 条
+> 生成时间：2026-11-09 14:30 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 0 条 ｜ 反馈 2 条 ｜ 告警 1 条
 
 ## 1. 今日核心结论（人工填写）
 
@@ -11,43 +11,43 @@
 
 ## 2. 告警
 
-暂无触发阈值的告警。
+ℹ️ Merlin Chain (MERL) 24h 跑赢 BTC 10.2 个百分点
 
 ## 3. 代币价格表现
 
-**基准 BTC：** $75,726.00 ｜ 1h 🔴 -0.05% ｜ 24h 🔴 -0.29% ｜ 7d 🔴 -2.62%
+**基准 BTC：** $74,277.00 ｜ 1h 🔴 -0.43% ｜ 24h 🔴 -1.90% ｜ 7d 🔴 -5.00%
 
-**24h 涨幅榜：** LIGHT -1.2%、SATS -1.3%、MERL -2.0%
+**24h 涨幅榜：** MERL +8.3%、LIGHT +1.0%、SATS -3.4%
 
-**24h 跌幅榜：** BABY -4.3%、DOG -3.3%、CORE -2.9%
+**24h 跌幅榜：** STX -7.0%、BABY -5.0%、CORE -5.0%
 
-### RGB（市值加权 24h：-1.22%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Bitlight Labs | LIGHT | $0.238074 | 🔴 -0.25% | 🔴 -1.22% | 🔴 -0.94% | 🔴 -0.93% | $10.25M | $844.35K | 0.08 |
-
-### Runes（市值加权 24h：-3.25%）
+### RGB（市值加权 24h：+1.04%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| DOG•GO•TO•THE•MOON | DOG | $0.00079378 | 🔴 -0.35% | 🔴 -3.25% | 🔴 -5.15% | 🔴 -2.96% | $79.38M | $343.96K | 0.00 |
+| Bitlight Labs | LIGHT | $0.24176 | 🔴 -0.19% | 🟢 +1.04% | 🟢 +1.31% | 🟢 +2.94% | $10.41M | $1.31M | 0.13 |
 
-### BRC-20 / Ordinals（市值加权 24h：-2.12%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ORDI | ORDI | $3.18 | 🟢 +0.24% | 🔴 -2.34% | 🔴 -9.70% | 🔴 -2.05% | $66.88M | $5.33M | 0.08 |
-| SATS (1000SATS) | SATS | $8.591e-09 | 🟢 +0.08% | 🔴 -1.30% | 🔴 -9.25% | 🔴 -1.00% | $18.04M | $671.61K | 0.04 |
-
-### BTC L2 / BTCFi（市值加权 24h：-2.84%）
+### Runes（市值加权 24h：-3.69%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Stacks | STX | $0.336918 | 🟢 +0.32% | 🔴 -2.76% | 🟢 +4.26% | 🔴 -2.47% | $633.78M | $20.39M | 0.03 |
-| Babylon | BABY | $0.010727 | 🔴 -0.04% | 🔴 -4.33% | 🔴 -11.91% | 🔴 -4.04% | $55.64M | $4.13M | 0.07 |
-| Core DAO | CORE | $0.0124956 | 🔴 -0.62% | 🔴 -2.92% | 🔴 -8.21% | 🔴 -2.63% | $18.78M | $1.16M | 0.06 |
-| Merlin Chain | MERL | $0.0292004 | 🟢 +0.20% | 🔴 -2.00% | 🔴 -3.38% | 🔴 -1.71% | $41.75M | $3.95M | 0.09 |
+| DOG•GO•TO•THE•MOON | DOG | $0.0007639 | 🔴 -0.00% | 🔴 -3.69% | 🔴 -6.10% | 🔴 -1.79% | $76.39M | $408.12K | 0.01 |
+
+### BRC-20 / Ordinals（市值加权 24h：-3.51%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ORDI | ORDI | $3.07 | 🔴 -0.31% | 🔴 -3.54% | 🔴 -11.77% | 🔴 -1.64% | $64.49M | $5.52M | 0.09 |
+| SATS (1000SATS) | SATS | $8.315e-09 | 🔴 -0.49% | 🔴 -3.42% | 🔴 -10.53% | 🔴 -1.52% | $17.46M | $989.26K | 0.06 |
+
+### BTC L2 / BTCFi（市值加权 24h：-5.85%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Stacks | STX | $0.314525 | 🔴 -1.05% | 🔴 -7.03% | 🔴 -4.07% | 🔴 -5.13% | $591.72M | $11.46M | 0.02 |
+| Babylon | BABY | $0.0101888 | 🔴 -0.42% | 🔴 -5.03% | 🔴 -14.68% | 🔴 -3.13% | $52.86M | $4.22M | 0.08 |
+| Core DAO | CORE | $0.0119341 | 🔴 -0.63% | 🔴 -5.00% | 🔴 -13.20% | 🔴 -3.11% | $17.94M | $2.84M | 0.16 |
+| Merlin Chain | MERL | $0.0316772 | 🟢 +0.21% | 🟢 +8.28% | 🟢 +3.98% | 🟢 +10.18% | $45.29M | $15.13M | 0.33 |
 
 <sub>无可交易代币 / 未配置行情的项目：RGB Protocol (LNP/BP)、RGB Tools / Iris Wallet、USDT on RGB、Taproot Assets (Lightning Labs)、USDT on Lightning (Taproot Assets)、LND、Core Lightning、LDK / Lightning Dev Kit、Breez SDK</sub>
 
@@ -59,20 +59,16 @@
 
 | 项目 | 生态 | 样本 | 正面 | 中性 | 负面 | 平均情绪 |
 |---|---|---:|---:|---:|---:|---|
-| Core Lightning | Lightning Network | 2 | 0 | 0 | 2 | -0.68（负面） |
-| LND | Lightning Network | 1 | 0 | 0 | 1 | -1.00（负面） |
+| Core Lightning | Lightning Network | 2 | 0 | 1 | 1 | -0.50（负面） |
 
 ### 热门讨论（按互动量）
 
-- `11-08 01:27` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11535] sweep: avoid negative-yield wallet inputs during fee bumping](https://github.com/lightningnetwork/lnd/issues/11535)
-- `11-07 23:50` **Core Lightning** · GitHub Issue · 互动 0 · 负面：[[ElementsProject/lightning#9715] LSPS2 client: a failed JIT channel open spends the zero-conf approval, so the retry is refused](https://github.com/ElementsProject/lightning/issues/9715)
-- `11-07 23:41` **Core Lightning** · GitHub Issue · 互动 0 · 负面：[[ElementsProject/lightning#9714] bcli: a failed `gettxout` reads as "spent", and gossip and `fundchannel_cancel` act on it](https://github.com/ElementsProject/lightning/issues/9714)
+- `11-09 06:33` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9721] `close` command unreasonably resorts to unilateral closure, far overpaying on fees](https://github.com/ElementsProject/lightning/issues/9721)
+- `11-08 21:22` **Core Lightning** · GitHub Issue · 互动 0 · 负面：[[ElementsProject/lightning#9719] lightningd crashes at shutdown when a channel fails after bcli has exited](https://github.com/ElementsProject/lightning/issues/9719)
 
 ### 负面反馈 / 风险线索
 
-- `11-08 01:27` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11535] sweep: avoid negative-yield wallet inputs during fee bumping](https://github.com/lightningnetwork/lnd/issues/11535)
-- `11-07 23:50` **Core Lightning** · GitHub Issue · 情绪 -0.75：[[ElementsProject/lightning#9715] LSPS2 client: a failed JIT channel open spends the zero-conf approval, so the retry is refused](https://github.com/ElementsProject/lightning/issues/9715)
-- `11-07 23:41` **Core Lightning** · GitHub Issue · 情绪 -0.60：[[ElementsProject/lightning#9714] bcli: a failed `gettxout` reads as "spent", and gossip and `fundchannel_cancel` act on it](https://github.com/ElementsProject/lightning/issues/9714)
+- `11-08 21:22` **Core Lightning** · GitHub Issue · 情绪 -1.00：[[ElementsProject/lightning#9719] lightningd crashes at shutdown when a channel fails after bcli has exited](https://github.com/ElementsProject/lightning/issues/9719)
 
 ## 6. 人工研判与跟进（人工填写）
 
@@ -95,7 +91,7 @@
 - usdt-lightning/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=USDT+lightning+%22taproot+assets%22&sort=new&t=week&limit=25
 - lnd/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=lnd+lightning+node&sort=new&t=week&limit=25
 - breez/github-release: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/releases?per_page=5
-- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-07T06%3A01%3A49.024530%2B00%3A00&per_page=20
+- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-08T06%3A30%3A08.067024%2B00%3A00&per_page=20
 - dog/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=DOG+rune+bitcoin&sort=new&t=week&limit=25
 - ordi/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=ORDI+brc20&sort=new&t=week&limit=25
 - stacks/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stacks+STX+sBTC&sort=new&t=week&limit=25
