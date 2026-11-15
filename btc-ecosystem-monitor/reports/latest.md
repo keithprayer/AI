@@ -1,6 +1,6 @@
-# BTC 生态项目监控报告 · 2026-11-14
+# BTC 生态项目监控报告 · 2026-11-15
 
-> 生成时间：2026-11-14 14:24 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 1 条 ｜ 反馈 3 条 ｜ 告警 0 条
+> 生成时间：2026-11-15 14:33 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 0 条 ｜ 反馈 1 条 ｜ 告警 0 条
 
 ## 1. 今日核心结论（人工填写）
 
@@ -15,65 +15,59 @@
 
 ## 3. 代币价格表现
 
-**基准 BTC：** $67,290.00 ｜ 1h 🟢 +0.13% ｜ 24h 🔴 -1.84% ｜ 7d 🔴 -11.49%
+**基准 BTC：** $64,496.00 ｜ 1h 🔴 -0.66% ｜ 24h 🔴 -4.15% ｜ 7d 🔴 -14.84%
 
-**24h 涨幅榜：** LIGHT +3.9%、MERL +2.9%、BABY +0.9%
+**24h 涨幅榜：** DOG +1.9%、MERL -0.1%、LIGHT -2.8%
 
-**24h 跌幅榜：** CORE -2.0%、ORDI -0.7%、DOG -0.5%
+**24h 跌幅榜：** ORDI -10.5%、CORE -9.4%、BABY -8.4%
 
-### RGB（市值加权 24h：+3.90%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Bitlight Labs | LIGHT | $0.242303 | 🟢 +0.34% | 🟢 +3.90% | 🔴 -0.36% | 🟢 +5.74% | $10.43M | $1.46M | 0.14 |
-
-### Runes（市值加权 24h：-0.50%）
+### RGB（市值加权 24h：-2.81%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| DOG•GO•TO•THE•MOON | DOG | $0.00071023 | 🔴 -0.26% | 🔴 -0.50% | 🔴 -13.45% | 🟢 +1.34% | $71.02M | $433.57K | 0.01 |
+| Bitlight Labs | LIGHT | $0.235323 | 🔴 -0.62% | 🔴 -2.81% | 🔴 -0.64% | 🟢 +1.34% | $10.13M | $2.16M | 0.21 |
 
-### BRC-20 / Ordinals（市值加权 24h：-0.64%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ORDI | ORDI | $3.09 | 🟢 +0.55% | 🔴 -0.67% | 🔴 -5.23% | 🟢 +1.16% | $64.95M | $8.61M | 0.13 |
-| SATS (1000SATS) | SATS | $8.281e-09 | 🟢 +0.46% | 🔴 -0.50% | 🔴 -4.79% | 🟢 +1.34% | $17.39M | $1.08M | 0.06 |
-
-### BTC L2 / BTCFi（市值加权 24h：+0.06%）
+### Runes（市值加权 24h：+1.87%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Stacks | STX | $0.281536 | 🟢 +0.90% | 🔴 -0.19% | 🔴 -18.68% | 🟢 +1.64% | $529.96M | $16.58M | 0.03 |
-| Babylon | BABY | $0.00929255 | 🟢 +0.11% | 🟢 +0.90% | 🔴 -17.51% | 🟢 +2.73% | $48.29M | $8.31M | 0.17 |
-| Core DAO | CORE | $0.0111041 | 🟢 +0.32% | 🔴 -1.99% | 🔴 -13.95% | 🔴 -0.16% | $16.70M | $2.66M | 0.16 |
-| Merlin Chain | MERL | $0.0316209 | 🟢 +1.10% | 🟢 +2.92% | 🟢 +7.11% | 🟢 +4.76% | $45.21M | $6.82M | 0.15 |
+| DOG•GO•TO•THE•MOON | DOG | $0.00072116 | 🟢 +0.46% | 🟢 +1.87% | 🔴 -10.09% | 🟢 +6.02% | $72.10M | $681.71K | 0.01 |
+
+### BRC-20 / Ordinals（市值加权 24h：-9.89%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ORDI | ORDI | $2.76 | 🟢 +0.28% | 🔴 -10.49% | 🔴 -13.21% | 🔴 -6.34% | $57.99M | $15.29M | 0.26 |
+| SATS (1000SATS) | SATS | $7.625e-09 | 🔴 -0.06% | 🔴 -7.73% | 🔴 -12.02% | 🔴 -3.58% | $16.01M | $2.18M | 0.14 |
+
+### BTC L2 / BTCFi（市值加权 24h：-5.36%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Stacks | STX | $0.265054 | 🔴 -0.53% | 🔴 -5.45% | 🔴 -20.73% | 🔴 -1.30% | $498.73M | $17.20M | 0.03 |
+| Babylon | BABY | $0.00848659 | 🔴 -0.06% | 🔴 -8.43% | 🔴 -20.96% | 🔴 -4.28% | $44.08M | $5.67M | 0.13 |
+| Core DAO | CORE | $0.010016 | 🔴 -0.92% | 🔴 -9.41% | 🔴 -20.16% | 🔴 -5.26% | $15.05M | $5.49M | 0.36 |
+| Merlin Chain | MERL | $0.0316836 | 🔴 -0.06% | 🔴 -0.09% | 🟢 +9.28% | 🟢 +4.06% | $45.29M | $16.17M | 0.36 |
 
 <sub>无可交易代币 / 未配置行情的项目：RGB Protocol (LNP/BP)、RGB Tools / Iris Wallet、USDT on RGB、Taproot Assets (Lightning Labs)、USDT on Lightning (Taproot Assets)、LND、Core Lightning、LDK / Lightning Dev Kit、Breez SDK</sub>
 
 ## 4. 最新项目公告
 
-### BTC L2 / BTCFi
-
-- `11-14 00:26` **Stacks** · 官方博客：[🍿 Bond 2 by the Numbers & a Post-Quantum First for sBTC](https://www.stacks.co/blog/bond-2-by-the-numbers-a-post-quantum-first-for-sbtc)
+回看窗口内暂无新公告。
 
 ## 5. 用户反馈与舆情
 
 | 项目 | 生态 | 样本 | 正面 | 中性 | 负面 | 平均情绪 |
 |---|---|---:|---:|---:|---:|---|
-| LND | Lightning Network | 2 | 0 | 0 | 2 | -1.00（负面） |
-| Stacks | BTC L2 / BTCFi | 1 | 1 | 0 | 0 | +1.00（正面） |
+| LND | Lightning Network | 1 | 0 | 0 | 1 | -1.00（负面） |
 
 ### 热门讨论（按互动量）
 
-- `11-13 14:36` **Stacks** · GitHub Issue · 互动 1 · 正面：[[stacks-network/stacks-core#7858] [Flaky Test] tests::nakamoto_integrations::mock_mining  (flaky)](https://github.com/stacks-network/stacks-core/issues/7858)
-- `11-14 05:03` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11577] [flake]: itest watchtower client_session_deletion: expected 10 backups, got 9  (test flake)](https://github.com/lightningnetwork/lnd/issues/11577)
-- `11-13 19:33` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11576] sweep: bounded batching of CPFP children of pre-signed second-level HTLC txs](https://github.com/lightningnetwork/lnd/issues/11576)
+- `11-14 19:19` **LND** · GitHub Issue · 互动 1 · 负面：[[lightningnetwork/lnd#11582] [bug]: lnd exits at startup when an `addpeer` peer is already connected (inbound race)](https://github.com/lightningnetwork/lnd/issues/11582)
 
 ### 负面反馈 / 风险线索
 
-- `11-14 05:03` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11577] [flake]: itest watchtower client_session_deletion: expected 10 backups, got 9  (test flake)](https://github.com/lightningnetwork/lnd/issues/11577)
-- `11-13 19:33` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11576] sweep: bounded batching of CPFP children of pre-signed second-level HTLC txs](https://github.com/lightningnetwork/lnd/issues/11576)
+- `11-14 19:19` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11582] [bug]: lnd exits at startup when an `addpeer` peer is already connected (inbound race)](https://github.com/lightningnetwork/lnd/issues/11582)
 
 ## 6. 人工研判与跟进（人工填写）
 
@@ -96,7 +90,7 @@
 - usdt-lightning/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=USDT+lightning+%22taproot+assets%22&sort=new&t=week&limit=25
 - lnd/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=lnd+lightning+node&sort=new&t=week&limit=25
 - breez/github-release: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/releases?per_page=5
-- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-13T06%3A24%3A01.205464%2B00%3A00&per_page=20
+- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-14T06%3A33%3A24.037150%2B00%3A00&per_page=20
 - dog/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=DOG+rune+bitcoin&sort=new&t=week&limit=25
 - ordi/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=ORDI+brc20&sort=new&t=week&limit=25
 - stacks/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stacks+STX+sBTC&sort=new&t=week&limit=25
