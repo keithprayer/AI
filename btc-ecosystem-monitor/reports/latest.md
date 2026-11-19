@@ -1,6 +1,6 @@
-# BTC 生态项目监控报告 · 2026-11-18
+# BTC 生态项目监控报告 · 2026-11-19
 
-> 生成时间：2026-11-18 15:30 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 1 条 ｜ 反馈 4 条 ｜ 告警 1 条
+> 生成时间：2026-11-19 15:26 (UTC+8) ｜ 回看窗口：24h ｜ 监控项目：17 个 ｜ 公告 3 条 ｜ 反馈 4 条 ｜ 告警 1 条
 
 ## 1. 今日核心结论（人工填写）
 
@@ -11,72 +11,75 @@
 
 ## 2. 告警
 
-ℹ️ Bitlight Labs (LIGHT) 24h 跑输 BTC 12.4 个百分点
+ℹ️ Core Lightning 新版本：[ElementsProject/lightning] v26.12 Release Candidate 1 (pre-release)
 
 ## 3. 代币价格表现
 
-**基准 BTC：** $64,674.00 ｜ 1h 🔴 -0.08% ｜ 24h 🟢 +0.03% ｜ 7d 🔴 -12.59%
+**基准 BTC：** $63,562.00 ｜ 1h 🟢 +0.52% ｜ 24h 🔴 -1.74% ｜ 7d 🔴 -13.48%
 
-**24h 涨幅榜：** STX +4.7%、SATS +1.4%、CORE +0.9%
+**24h 涨幅榜：** LIGHT +6.9%、BABY +2.6%、CORE +1.4%
 
-**24h 跌幅榜：** LIGHT -12.4%、DOG -2.9%、ORDI -1.2%
+**24h 跌幅榜：** MERL -1.1%、SATS -0.6%、ORDI -0.6%
 
-### RGB（市值加权 24h：-12.38%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Bitlight Labs | LIGHT | $0.219577 | 🔴 -3.92% | 🔴 -12.38% | 🔴 -6.95% | 🔴 -12.41% | $9.45M | $2.64M | 0.28 |
-
-### Runes（市值加权 24h：-2.93%）
+### RGB（市值加权 24h：+6.90%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| DOG•GO•TO•THE•MOON | DOG | $0.00069245 | 🔴 -0.04% | 🔴 -2.93% | 🔴 -7.73% | 🔴 -2.96% | $69.25M | $342.35K | 0.00 |
+| Bitlight Labs | LIGHT | $0.235188 | 🔴 -0.22% | 🟢 +6.90% | 🔴 -2.76% | 🟢 +8.63% | $10.13M | $2.44M | 0.24 |
 
-### BRC-20 / Ordinals（市值加权 24h：-0.59%）
-
-| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
-|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| ORDI | ORDI | $2.77 | 🟢 +0.31% | 🔴 -1.16% | 🔴 -13.38% | 🔴 -1.19% | $58.22M | $7.96M | 0.14 |
-| SATS (1000SATS) | SATS | $7.731e-09 | 🟢 +0.05% | 🟢 +1.44% | 🔴 -9.22% | 🟢 +1.41% | $16.24M | $593.74K | 0.04 |
-
-### BTC L2 / BTCFi（市值加权 24h：+3.83%）
+### Runes（市值加权 24h：+0.74%）
 
 | 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
 |---|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| Stacks | STX | $0.27706 | 🔴 -0.50% | 🟢 +4.66% | 🔴 -12.64% | 🟢 +4.63% | $521.85M | $14.31M | 0.03 |
-| Babylon | BABY | $0.00830665 | 🔴 -0.10% | 🔴 -1.15% | 🔴 -17.54% | 🔴 -1.18% | $43.23M | $3.50M | 0.08 |
-| Core DAO | CORE | $0.0101579 | 🟢 +0.75% | 🟢 +0.93% | 🔴 -20.46% | 🟢 +0.90% | $15.28M | $3.15M | 0.21 |
-| Merlin Chain | MERL | $0.0284053 | 🟢 +0.10% | 🔴 -0.47% | 🔴 -7.43% | 🔴 -0.50% | $40.61M | $3.88M | 0.10 |
+| DOG•GO•TO•THE•MOON | DOG | $0.00069802 | 🟢 +0.37% | 🟢 +0.74% | 🔴 -2.60% | 🟢 +2.48% | $69.80M | $344.43K | 0.00 |
+
+### BRC-20 / Ordinals（市值加权 24h：-0.58%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| ORDI | ORDI | $2.76 | 🟢 +0.18% | 🔴 -0.56% | 🔴 -12.59% | 🟢 +1.18% | $57.90M | $8.30M | 0.14 |
+| SATS (1000SATS) | SATS | $7.682e-09 | 🔴 -0.10% | 🔴 -0.63% | 🔴 -8.71% | 🟢 +1.11% | $16.13M | $682.24K | 0.04 |
+
+### BTC L2 / BTCFi（市值加权 24h：+0.53%）
+
+| 项目 | 代币 | 价格 | 1h | 24h | 7d | 24h vs BTC | 市值 | 24h 成交量 | 量/市值 |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Stacks | STX | $0.278427 | 🟢 +0.64% | 🟢 +0.46% | 🔴 -8.23% | 🟢 +2.20% | $524.49M | $12.07M | 0.02 |
+| Babylon | BABY | $0.00852698 | 🟢 +0.48% | 🟢 +2.56% | 🔴 -11.62% | 🟢 +4.30% | $44.39M | $5.39M | 0.12 |
+| Core DAO | CORE | $0.0102808 | 🟢 +0.04% | 🟢 +1.41% | 🔴 -13.79% | 🟢 +3.14% | $15.46M | $2.65M | 0.17 |
+| Merlin Chain | MERL | $0.0281101 | 🔴 -0.59% | 🔴 -1.13% | 🔴 -2.19% | 🟢 +0.61% | $41.28M | $3.22M | 0.08 |
 
 <sub>无可交易代币 / 未配置行情的项目：RGB Protocol (LNP/BP)、RGB Tools / Iris Wallet、USDT on RGB、Taproot Assets (Lightning Labs)、USDT on Lightning (Taproot Assets)、LND、Core Lightning、LDK / Lightning Dev Kit、Breez SDK</sub>
 
 ## 4. 最新项目公告
 
+### Lightning Network
+
+- `11-18 23:26` **Core Lightning** · GitHub Release：[[ElementsProject/lightning] v26.12 Release Candidate 1 (pre-release)](https://github.com/ElementsProject/lightning/releases/tag/v26.12rc1)
+
 ### BTC L2 / BTCFi
 
-- `11-18 01:32` **Stacks** · 官方博客：[How Stacks Labs Is Building an AI Software Factory for Bitcoin Infrastructure](https://www.stacks.co/blog/how-stacks-labs-is-building-an-ai-software-factory-for-bitcoin-infrastructure)
+- `11-18 18:26` **Stacks** · 官方博客：[A Bitcoin Renaissance: Xverse presents Ordinals Alley at the Bitcoin Miami Conference](https://www.stacks.co/blog/a-bitcoin-renaissance-xverse-presents-ordinals-alley-at-the-bitcoin-miami-conference)
+- `11-18 18:26` **Stacks** · 官方博客：[Bitcoin Art: 14 Artists & Collections You Should Know](https://www.stacks.co/blog/bitcoin-art-14-artists-collections-you-should-know)
 
 ## 5. 用户反馈与舆情
 
 | 项目 | 生态 | 样本 | 正面 | 中性 | 负面 | 平均情绪 |
 |---|---|---:|---:|---:|---:|---|
-| RGB Tools / Iris Wallet | RGB | 1 | 0 | 0 | 1 | -0.33（负面） |
-| LND | Lightning Network | 1 | 0 | 0 | 1 | -1.00（负面） |
-| Core Lightning | Lightning Network | 1 | 0 | 1 | 0 | +0.00（中性） |
-| LDK / Lightning Dev Kit | Lightning Network | 1 | 0 | 1 | 0 | +0.00（中性） |
+| Core Lightning | Lightning Network | 3 | 1 | 1 | 1 | -0.17（中性） |
+| Stacks | BTC L2 / BTCFi | 1 | 0 | 0 | 1 | -1.00（负面） |
 
 ### 热门讨论（按互动量）
 
-- `11-17 19:50` **LDK / Lightning Dev Kit** · GitHub Issue · 互动 2 · 中性：[[lightningdevkit/rust-lightning#4766] Bump `chacha20-poly1305` to `0.3.0`](https://github.com/lightningdevkit/rust-lightning/issues/4766)
-- `11-18 05:13` **RGB Tools / Iris Wallet** · GitHub Issue · 互动 0 · 负面：[[RGB-Tools/rgb-lib#136] Support sponsored transfers with version 3 transactions and a pay-to-anchor output](https://github.com/RGB-Tools/rgb-lib/issues/136)
-- `11-18 02:40` **LND** · GitHub Issue · 互动 0 · 负面：[[lightningnetwork/lnd#11595] ci: open a fresh issue for each failing nightly run](https://github.com/lightningnetwork/lnd/issues/11595)
-- `11-17 22:27` **Core Lightning** · GitHub Issue · 互动 0 · 中性：[[ElementsProject/lightning#9743] xpay/askrene: pending payments use local channel capacity twice](https://github.com/ElementsProject/lightning/issues/9743)
+- `11-18 23:40` **Core Lightning** · GitHub Issue · 互动 1 · 中性：[[ElementsProject/lightning#9744] xpay could have an option to limit the "dust" size on parts](https://github.com/ElementsProject/lightning/issues/9744)
+- `11-19 05:03` **Core Lightning** · GitHub Issue · 互动 0 · 正面：[[ElementsProject/lightning#9746] tools: lightning-downgrade is built but not installed, and not in the release archives](https://github.com/ElementsProject/lightning/issues/9746)
+- `11-18 23:46` **Core Lightning** · GitHub Issue · 互动 0 · 负面：[[ElementsProject/lightning#9745] v26.06.10 dev-forget-channel is not working as intended](https://github.com/ElementsProject/lightning/issues/9745)
+- `11-19 00:04` **Stacks** · GitHub Issue · 互动 0 · 负面：[[stacks-network/stacks-core#7868] `to-consensus-buff?` under-estimates the buffer size when an optional or response contains an empty list](https://github.com/stacks-network/stacks-core/issues/7868)
 
 ### 负面反馈 / 风险线索
 
-- `11-18 02:40` **LND** · GitHub Issue · 情绪 -1.00：[[lightningnetwork/lnd#11595] ci: open a fresh issue for each failing nightly run](https://github.com/lightningnetwork/lnd/issues/11595)
-- `11-18 05:13` **RGB Tools / Iris Wallet** · GitHub Issue · 情绪 -0.33：[[RGB-Tools/rgb-lib#136] Support sponsored transfers with version 3 transactions and a pay-to-anchor output](https://github.com/RGB-Tools/rgb-lib/issues/136)
+- `11-18 23:46` **Core Lightning** · GitHub Issue · 情绪 -1.00：[[ElementsProject/lightning#9745] v26.06.10 dev-forget-channel is not working as intended](https://github.com/ElementsProject/lightning/issues/9745)
+- `11-19 00:04` **Stacks** · GitHub Issue · 情绪 -1.00：[[stacks-network/stacks-core#7868] `to-consensus-buff?` under-estimates the buffer size when an optional or response contains an empty list](https://github.com/stacks-network/stacks-core/issues/7868)
 
 ## 6. 人工研判与跟进（人工填写）
 
@@ -99,7 +102,7 @@
 - usdt-lightning/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=USDT+lightning+%22taproot+assets%22&sort=new&t=week&limit=25
 - lnd/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=lnd+lightning+node&sort=new&t=week&limit=25
 - breez/github-release: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/releases?per_page=5
-- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-17T07%3A30%3A11.464674%2B00%3A00&per_page=20
+- breez/github-issue: HTTPError: 404 Client Error: Not Found for url: https://api.github.com/repos/breez/breez-sdk-liquid/issues?state=all&sort=created&direction=desc&since=2026-11-18T07%3A26%3A05.483274%2B00%3A00&per_page=20
 - dog/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=DOG+rune+bitcoin&sort=new&t=week&limit=25
 - ordi/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=ORDI+brc20&sort=new&t=week&limit=25
 - stacks/reddit: HTTPError: 403 Client Error: Blocked for url: https://www.reddit.com/search.json?q=Stacks+STX+sBTC&sort=new&t=week&limit=25
